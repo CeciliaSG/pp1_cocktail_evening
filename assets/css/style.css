@@ -11,11 +11,17 @@
 /* Generic styles */
 
 header {
+    position: sticky;
+    top:0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    z-index: 1000;
+    display: flex;
     color: black;
     background-color: white;
     font-family: 'Poppins', sans-serif;
     }
-}
 
 main {
     background-color: #F4E0D9;
