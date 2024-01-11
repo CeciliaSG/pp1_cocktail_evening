@@ -7,3 +7,20 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* Generic styles */
+
+header {
+    color: black;
+    background-color: white;
+}
+
+main {
+    background-color: #F4E0D9;
+    color: black;
+}
+
+footer {
+    background-color: #342646 ;
+    color:#F4E0D9;
+}
