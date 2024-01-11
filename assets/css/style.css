@@ -28,6 +28,17 @@ header {
     color: black;
     background-color: white;
     font-family: 'Poppins', sans-serif;
+    color:black;
+    }
+
+    nav ul {
+        list-style-type: none;
+        display:flex;
+        background-color: white;
+        font-size: 12px;
+        width: 100%;
+        color: black;
+        
     }
 
 main {
