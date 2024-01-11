@@ -18,9 +18,11 @@ header {
 main {
     background-color: #F4E0D9;
     color: black;
+    min-height: 100vh;
 }
 
 footer {
     background-color: #342646 ;
     color:#F4E0D9;
+    min-height: 40px;
 }
