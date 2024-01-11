@@ -28,7 +28,8 @@ header {
     color: black;
     background-color: white;
     font-family: 'Poppins', sans-serif;
-    color:black;
+    justify-content: space-between;
+    align-items: center;
     }
 
     nav ul {
@@ -36,9 +37,14 @@ header {
         display:flex;
         background-color: white;
         font-size: 12px;
-        width: 100%;
         color: black;
-        
+        margin: 0;
+        padding: 0;
+    }
+
+    #menu {
+        color: black;
+
     }
 
 main {
