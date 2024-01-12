@@ -59,7 +59,22 @@ main {
     background-color: #F4E0D9;
     color: black;
     font-family: 'Poppins',sans-serif;
+    display: flex;
+    flex-direction: column;
     flex: 1;
+    font-size: 12px;
+    text-align: center;
+}
+#upper-content {
+    flex-grow: 1;
+    padding: 15px 30px;
+
+}
+
+#lower-content {
+    background-color: white;
+    padding: 15px 30px;
+    flex-grow: 0;
 }
 
 /* Footer styles */
