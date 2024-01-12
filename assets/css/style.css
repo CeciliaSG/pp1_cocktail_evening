@@ -22,14 +22,17 @@ header {
     top:0;
     left: 0;
     width: 100%;
-    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
     z-index: 1000;
     display: flex;
     color: black;
     background-color: white;
     font-family: 'Poppins', sans-serif;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+    align-content: center;
     }
 
     header a {
@@ -64,6 +67,7 @@ main {
     flex: 1;
     font-size: 12px;
     text-align: center;
+    margin: 10px;
 }
 
 
