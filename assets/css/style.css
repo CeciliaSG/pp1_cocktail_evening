@@ -22,7 +22,7 @@ header {
     top:0;
     left: 0;
     width: 100%;
-    padding: 20px;
+    padding: 10px;
     z-index: 1000;
     display: flex;
     color: black;
@@ -32,18 +32,24 @@ header {
     align-items: center;
     }
 
+    header a {
+        text-decoration: none;
+        color: black;
+
+    }
+
     nav ul {
         list-style-type: none;
         display:flex;
         background-color: white;
         font-size: 12px;
-        color: black;
         margin: 0;
         padding: 0;
     }
 
-    #menu {
-        color: black;
+    #menu > li {
+        text-transform: uppercase;
+        font-style: 90%;
 
     }
 
@@ -62,4 +68,3 @@ footer {
     width: 100%;
     padding: 20px;
     }
-}
