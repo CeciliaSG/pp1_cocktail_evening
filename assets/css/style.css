@@ -65,10 +65,12 @@ main {
     font-size: 12px;
     text-align: center;
 }
+
 #upper-content {
     flex-grow: 1;
     padding: 15px 30px;
-
+   display: flex;
+   flex-direction: column;
 }
 
 #lower-content {
