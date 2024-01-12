@@ -63,8 +63,19 @@ main {
 footer {
     background-color: #342646 ;
     color:#F4E0D9;
-    min-height: 40px;
     font-family: 'Poppins', sans-serif;
     width: 100%;
-    padding: 20px;
+    min-height: 40px;
     }
+
+   #footer-items {
+       text-align: center;
+       padding: 20px 0;
+       display: flex;
+       justify-content: space-evenly;
+       list-style-type: none;
+       font-size: 70%;
+       text-transform: uppercase;
+       color: #F4E0D9;
+   }
+
