@@ -70,7 +70,7 @@ footer {
 
    #footer-items {
        text-align: center;
-       padding: 20px 0;
+       padding: 20px 20px;
        display: flex;
        justify-content: space-evenly;
        list-style-type: none;
@@ -83,3 +83,30 @@ footer {
     font-size: 150%;
     color: #F4E0D9;
    }
+
+
+   /* Media queries*/
+
+   /* Media query tablets and larger (768px and up) */
+   @media screen and (min-width: 768px) {
+
+    #footer-items {
+            font-size: 80%;
+        }
+    
+        footer i {
+            font-size: 170%;
+        }
+
+   }
+
+   /* Media query larger (latops and desktops, 992px and up) */
+   @media screen and (min-width: 992px) {
+
+    #footer-items {
+        font-size: 90%;
+    }
+
+    footer i {
+            font-size: 200%;
+        }
