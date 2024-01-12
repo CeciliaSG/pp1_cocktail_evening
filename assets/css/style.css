@@ -53,12 +53,16 @@ header {
 
     }
 
+    /* Styling main content*/
+
 main {
     background-color: #F4E0D9;
     color: black;
     font-family: 'Poppins',sans-serif;
     flex: 1;
 }
+
+/* Footer styles */
 
 footer {
     background-color: #342646 ;
