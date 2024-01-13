@@ -156,14 +156,20 @@ footer {
         width: fit-content;
     }
 
-        .nav-dropdown-label {
-            display: none;
-        }
 
     #menu { 
         display: flex;
         font-size: 120%;
     }
+
+
+   .nav-toggle-label {
+       display: none;
+   }
+
+   #menu {
+       display: flex;
+   }
 
     
 /* Main content*/
