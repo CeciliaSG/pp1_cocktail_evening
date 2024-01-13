@@ -78,10 +78,12 @@ header {
         /* Nav dropdown */
 
     #nav-toggle:checked~nav {
-        display: block;
-}
+        display: flex;
+        justify-content: flex-end;
 
-#nav-toggle {
+}
+    
+    #nav-toggle {
     display: none;
 }
 
@@ -167,9 +169,6 @@ footer {
        display: none;
    }
 
-   #menu {
-       display: flex;
-   }
 
     
 /* Main content*/
