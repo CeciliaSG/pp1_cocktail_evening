@@ -80,6 +80,7 @@ main {
     background-color: white;
     padding: 15px 30px;
     flex-grow: 0;
+    min-height: 150px;
 }
 
 
@@ -126,6 +127,11 @@ footer {
         margin: 0 auto;
     }
 
+        #lower-content {
+            padding-top: 20px;
+            min-height: 200px;
+        }
+
     .text-paragraphs{
         max-width: 400px;
         margin: 0 auto;
@@ -150,6 +156,11 @@ footer {
     main {
             font-size: 140%;
         }
+
+                   #lower-content {
+                    padding-top: 30px;
+                       min-height: 300px;
+                   }
     
         main>p {
             text-align: center;
