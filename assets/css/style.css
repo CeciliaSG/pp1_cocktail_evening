@@ -38,8 +38,16 @@ header {
     header a {
         text-decoration: none;
         color: black;
-
     }
+
+    #menu {
+        text-transform: uppercase;
+    }
+
+    #menu>li {
+        padding: 5px;
+    }
+
 
     nav ul {
         list-style-type: none;
