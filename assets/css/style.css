@@ -25,7 +25,7 @@ header {
     width: 100%;
     z-index: 1000;
     display: flex;
-    padding: 1rem;
+    padding-top: 1rem;
     color: black;
     background-color: white;
     font-family: 'Poppins', sans-serif;
@@ -34,7 +34,8 @@ header {
     }
 
     h1 {
-        font-family: 'Libre Baskerville', serif;;
+        font-family: 'Libre Baskerville', serif;
+        padding: 10px;
     }
 
     header a {
@@ -83,6 +84,7 @@ header {
 #nav-toggle {
     display: none;
 }
+
 
     /* Styling main content */
 
@@ -154,9 +156,15 @@ footer {
         width: fit-content;
     }
 
+        .nav-dropdown-label {
+            display: none;
+        }
+
     #menu { 
         display: flex;
+        font-size: 120%;
     }
+
     
 /* Main content*/
     main {
@@ -164,13 +172,13 @@ footer {
         padding-top: 40px;
     }
 
-   main>p {
+    main>p {
         text-align: center;
         max-width: 400px;
         margin: 0 auto;
     }
 
-        #lower-content {
+     #lower-content {
             padding-top: 20px;
             min-height: 200px;
         }
@@ -191,7 +199,7 @@ footer {
             font-size: 80%;
         }
     
-        footer i {
+    footer i {
             font-size: 170%;
         }
     
