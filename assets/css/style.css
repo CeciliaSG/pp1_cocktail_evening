@@ -83,6 +83,9 @@ main {
     min-height: 150px;
 }
 
+h1, h2 {
+    color: #EB171D;
+}
 
 /* Footer styles */
 
@@ -138,6 +141,11 @@ footer {
 
     }
     
+           /* Footer styles */
+
+    footer{
+        min-height: 60px;
+    }
 
     #footer-items {
             font-size: 80%;
@@ -173,6 +181,12 @@ footer {
             margin: 0 auto;
     
         }
+    
+    /* Footer styles */
+
+          footer {
+              min-height: 70px;
+          }
 
     #footer-items {
         font-size: 90%;
