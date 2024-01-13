@@ -25,6 +25,7 @@ header {
     width: 100%;
     z-index: 1000;
     display: flex;
+    padding: 1rem;
     color: black;
     background-color: white;
     font-family: 'Poppins', sans-serif;
@@ -70,6 +71,7 @@ header {
         top: 100%;  
         color: black;
         display: none;
+        padding: 0 1rem;
     }
 
         /* Nav dropdown */
@@ -82,8 +84,7 @@ header {
     display: none;
 }
 
-
-    /* Styling main content*/
+    /* Styling main content */
 
 main {
     background-color: #F4E0D9;
@@ -94,7 +95,7 @@ main {
     flex: 1;
     font-size: 12px;
     text-align: center;
-    margin: 40px 10px;
+    margin: 56px 10px;
 }
 
 #upper-content {
@@ -145,6 +146,19 @@ footer {
    /* Media query tablets and larger (768px and up) */
    @media screen and (min-width: 768px) {
 
+    /* Header styles */
+
+    nav {
+        position: relative;
+        display: block;
+        width: fit-content;
+    }
+
+    #menu { 
+        display: flex;
+    }
+    
+/* Main content*/
     main {
         font-size: 120%;
         padding-top: 40px;
