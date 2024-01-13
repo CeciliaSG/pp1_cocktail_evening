@@ -53,7 +53,7 @@ header {
         font-size: 100%;
     }
 
-    nav ul {
+    #menu {
         list-style-type: none;
         background-color: white;
         font-size: 12px;
@@ -78,7 +78,7 @@ header {
         display: block;
 }
 
-#nav-dropdown {
+#nav-toggle {
     display: none;
 }
 
