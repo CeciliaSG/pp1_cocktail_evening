@@ -48,13 +48,14 @@ header {
         font-size: 12px;
         margin: 0;
         padding: 0;
+        color: black;
     }
 
-    #menu > li {
-        text-transform: uppercase;
-        font-style: 90%;
 
-    }
+       
+
+    /* Styles for dropdown menu*/
+
 
     /* Styling main content*/
 
