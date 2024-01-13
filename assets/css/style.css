@@ -35,6 +35,10 @@ header {
     align-content: center;
     }
 
+    h1 {
+        font-family: 'Libre Baskerville', serif;;
+    }
+
     header a {
         text-decoration: none;
         color: black;
@@ -48,6 +52,9 @@ header {
         padding: 5px;
     }
 
+    .logo {
+        font-size: 100%;
+    }
 
     nav ul {
         list-style-type: none;
