@@ -43,7 +43,11 @@ header {
         color: black;
     }
 
-
+    #logo {
+    font-size: 300%;
+    line-height: 80px;
+    margin: 0 0.6rem;
+        }
 
     #menu>li {
         padding: 5px;
@@ -115,8 +119,12 @@ main {
     min-height: 150px;
 }
 
-h1, h2 {
+.red-header {
     color: #EB171D;
+}
+
+.italic {
+    font-style: italic;
 }
 
 /* Footer styles */
