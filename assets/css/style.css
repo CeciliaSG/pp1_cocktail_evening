@@ -49,9 +49,7 @@ header {
     }
 
     #logo-image {
-        height: 50px;
-        width: auto;
-        margin: auto;
+        height: 60px;
     }
 
 
@@ -102,7 +100,7 @@ header {
     flex: 1;
     font-size: 12px;
     text-align: center;
-    margin-top: 56px;
+    margin-top: 72.5px;
     margin-left:10px;
     margin-right: 10px;
     padding-top: 0px;
@@ -204,6 +202,7 @@ footer {
         padding-top: 1.2rem;
         padding-bottom: 1.2rem;
     }
+
 
     nav {
         position: relative;
