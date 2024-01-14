@@ -43,7 +43,7 @@ header {
         color: inherit;
     }
 
-        .active {
+    .active {
             border-bottom: 1px solid #F4E0D9;
         }
 
@@ -117,6 +117,10 @@ header {
     flex-direction: column;
     justify-content: start;
     align-items: center;
+    background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.png');
+    background-size: 400px;
+    background-position: right 20px top 30px;
+    background-repeat: no-repeat;
 }
 
 .button {
