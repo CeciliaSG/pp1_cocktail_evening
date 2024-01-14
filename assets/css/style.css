@@ -118,7 +118,7 @@ header {
     justify-content: start;
     align-items: center;
     background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.png');
-    background-size: 400px;
+    background-size: 300px;
     background-position: right 20px top 30px;
     background-repeat: no-repeat;
 }
@@ -243,8 +243,16 @@ footer {
     .button {
         padding: 8px;
         font-size: 120%;
-        margin-top: 1.3rem;
+        margin-top: 1.8rem;
          }
+
+
+        #upper-content {
+            background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.png');
+            background-size: 500px;
+            background-position: left 100px top 30px;
+            background-repeat: no-repeat;
+        }
 
      #lower-content {
             padding-top: 20px;
