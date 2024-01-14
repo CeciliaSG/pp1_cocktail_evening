@@ -32,7 +32,7 @@ header {
     font-family: 'Poppins', sans-serif;
     justify-content: space-around;
     align-items: baseline;
-    }
+}
 
     h1 {
         font-family: 'Libre Baskerville', serif;
@@ -76,8 +76,6 @@ header {
         padding: 0 1rem;
     }
 
-        /* Nav dropdown */
-
     #nav-toggle:checked~nav {
         display: flex;
         justify-content: flex-end;
@@ -108,6 +106,9 @@ header {
 #upper-content {
     flex-grow: 1;
     padding: 15px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
 }
 
 .button {
@@ -151,7 +152,7 @@ header {
     min-height: 150px;
 }
 
-.red-header {
+.red-heading {
     color: #EB171D;
 }
 
@@ -238,7 +239,7 @@ footer {
         }
 
     .text-paragraphs{
-        max-width: 400px;
+        max-width: 450px;
         margin: 0 auto;
 
     }
