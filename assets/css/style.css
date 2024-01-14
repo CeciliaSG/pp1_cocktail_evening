@@ -44,11 +44,12 @@ header {
         color: black;
     }
 
+    .logo {
+        width: 100px;
+        height: 80px;
+        align-items: center;
+    }
 
-    #logo-image {
-        width: 30%;
-        height: 30%
-    }    
 
     #menu>li {
         padding: 5px;
