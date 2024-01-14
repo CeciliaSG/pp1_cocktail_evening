@@ -26,12 +26,11 @@ header {
     z-index: 1000;
     display: flex;
     padding-top: 1rem;
-    padding-bottom: 0.4rem;
     color: black;
     background-color: white;
     font-family: 'Poppins', sans-serif;
-    justify-content: space-around;
-    align-items: baseline;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
     h1 {
@@ -44,10 +43,15 @@ header {
         color: black;
     }
 
+
     .logo {
-        width: 100px;
-        height: 80px;
-        align-items: center;
+        display: flex; 
+    }
+
+    #logo-image {
+        height: 50px;
+        width: auto;
+        margin: auto;
     }
 
 
