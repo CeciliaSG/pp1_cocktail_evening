@@ -50,13 +50,15 @@ header {
     margin: 0 0.6rem;
         }
 
+    #logo-image {
+        width: 30%;
+        height: 30%
+    }    
+
     #menu>li {
         padding: 5px;
     }
 
-    .logo {
-        font-size: 100%;
-    }
 
     #menu {
         list-style-type: none;
