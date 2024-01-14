@@ -40,8 +40,12 @@ header {
 
     header a {
         text-decoration: none;
-        color: black;
+        color: inherit;
     }
+
+        .active {
+            border-bottom: 1px solid #F4E0D9;
+        }
 
 
     .logo {
@@ -52,9 +56,9 @@ header {
         height: 60px;
     }
 
-
     #menu>li {
-        padding: 5px;
+        padding: 10px;
+        letter-spacing: 2px;
     }
 
 
@@ -203,7 +207,6 @@ footer {
         padding-bottom: 1.2rem;
     }
 
-
     nav {
         position: relative;
         display: block;
@@ -236,6 +239,7 @@ footer {
     .button {
         padding: 8px;
         font-size: 120%;
+        margin-top: 1.3rem;
          }
 
      #lower-content {
