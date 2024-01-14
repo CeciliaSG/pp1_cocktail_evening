@@ -113,6 +113,13 @@ header {
     padding: 15px 30px;
 }
 
+.button {
+    padding: 6px;
+    background-color: #EB171D;
+    border: 0px;
+    color: white;
+}
+
 #lower-content {
     background-color: white;
     padding: 15px 30px;
@@ -195,6 +202,11 @@ footer {
         margin: 0 auto;
     }
 
+    .button {
+        padding: 8px;
+        font-size: 120%;
+         }
+
      #lower-content {
             padding-top: 20px;
             min-height: 200px;
@@ -225,7 +237,7 @@ footer {
 
    }
 
-   /* Media query larger (latops and desktops, 992px and up) */
+   /* Media query larger (laptops and desktops, 992px and up) */
    @media screen and (min-width: 992px) {
 
     main {
@@ -233,6 +245,7 @@ footer {
             margin-left: 20px;
             margin-right: 20px;
         }
+
 
         #lower-content {
         padding-top: 30px;
