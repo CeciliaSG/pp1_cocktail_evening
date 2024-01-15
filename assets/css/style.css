@@ -294,11 +294,10 @@ footer {
         margin-top: 1.8rem;
          }
 
-
     #upper-content {
             background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.webp');
             background-size: 400px;
-            background-position: left 100px top 30px;
+            background-position: left 150px top 30px;
             background-repeat: no-repeat;
             padding-top: 0;
         }
@@ -358,7 +357,7 @@ footer {
             margin-left: 20px;
             margin-right: 20px;
             margin-top: 117.38px;
-            background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.webp');
+            background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952_PINK.webp');
             background-position: left;
             background-size: 600px;
             background-repeat: no-repeat;
@@ -377,9 +376,6 @@ footer {
         min-height: 260px;
             }
 
-    #rsvp-form {
-        width: 45%;
-    }
     
     main>p {
             text-align: center;
