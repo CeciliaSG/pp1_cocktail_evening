@@ -171,25 +171,39 @@ header {
     margin-top: 0.5rem;
 }
 
+#rsvp-section {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
 
 #rsvp-form{
     background-color: white;
     color: black;
     padding: 0px 15px;
     text-transform: uppercase;
+    font-size: 80%;
+    display: flex;
+    flex-direction: column;
 }
 
 .text-input {
     background-color: #F4E0D9;
     color: black;
     border: 1px solid;
+    height: 25px;
+    width: 100%
     margin-bottom: 5px;
+    padding: 3px 5px;
 }
 
 .radio-buttons {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     padding-top: 10px;
+    width: 100%;
 }
 
 rsvp-button {
@@ -292,9 +306,15 @@ footer {
             padding-top: 0;
         }
 
-     #lower-content {
+    #lower-content {
             padding-top: 20px;
             min-height: 180px;
+        }
+
+    #rsvp-form {
+         font-size: 70%;
+         max-width: 500px;
+
         }
 
     .text-paragraphs{
