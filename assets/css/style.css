@@ -44,7 +44,7 @@ header {
     }
 
     .active {
-            border-bottom: 1px solid #F4E0D9;
+            border-bottom: 1px solid #EB171D;
         }
 
 
@@ -60,7 +60,6 @@ header {
         padding: 10px;
         letter-spacing: 2px;
     }
-
 
     #menu {
         list-style-type: none;
@@ -86,7 +85,6 @@ header {
     #nav-toggle:checked~nav {
         display: flex;
         justify-content: flex-end;
-
 }
     
     #nav-toggle {
@@ -258,7 +256,7 @@ footer {
 
     #upper-content {
             background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.png');
-            background-size: 500px;
+            background-size: 400px;
             background-position: left 100px top 30px;
             background-repeat: no-repeat;
             padding-top: 0;
@@ -310,9 +308,14 @@ footer {
             font-size: 140%;
             margin-left: 20px;
             margin-right: 20px;
+            background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.png');
+            background-position: left;
+            background-size: 600px;
+            background-repeat: no-repeat;
         }
     
     #upper-content {
+            background-image: none;
             background-size: 400px;
             background-position: left;
             background-repeat: no-repeat;
