@@ -115,7 +115,7 @@ header {
     flex-direction: column;
     justify-content: start;
     align-items: center;
-    background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.png');
+    background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.webp');
     background-size: 300px;
     background-position: right 20px top 30px;
     background-repeat: no-repeat;
@@ -197,15 +197,10 @@ header {
     padding: 3px 5px;
 }
 
-.radio-buttons {
-    display: flex;
-}
-
 #alone, #two {
     font-size: 8px;
     padding:5px;
 }
-
 
 #rsvp-button {
     margin-bottom: 10px;
@@ -301,7 +296,7 @@ footer {
 
 
     #upper-content {
-            background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.png');
+            background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.webp');
             background-size: 400px;
             background-position: left 100px top 30px;
             background-repeat: no-repeat;
@@ -363,7 +358,7 @@ footer {
             margin-left: 20px;
             margin-right: 20px;
             margin-top: 117.38px;
-            background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.png');
+            background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.webp');
             background-position: left;
             background-size: 600px;
             background-repeat: no-repeat;
