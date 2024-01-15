@@ -171,6 +171,31 @@ header {
     margin-top: 0.5rem;
 }
 
+
+#rsvp-form{
+    background-color: white;
+    color: black;
+    padding: 0px 15px;
+    text-transform: uppercase;
+}
+
+.text-input {
+    background-color: #F4E0D9;
+    color: black;
+    border: 1px solid;
+    margin-bottom: 5px;
+}
+
+.radio-buttons {
+    display: flex;
+    padding-top: 10px;
+}
+
+rsvp-button {
+    margin-bottom: 0px;
+}
+
+
 /* Footer styles */
 
 footer {
@@ -288,7 +313,6 @@ footer {
     footer i {
             font-size: 170%;
         }
-    
 
    }
 
