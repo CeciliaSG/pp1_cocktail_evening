@@ -159,6 +159,11 @@ main {
     min-height: 140px;
 }
 
+.lower-content-map-section {
+    padding-top: 20px;
+    min-height: 220px;
+}
+
 .red-heading {
     color: #EB171D;
     text-transform: uppercase;
@@ -303,11 +308,6 @@ footer i {
         margin: 0 auto;
     }
 
-    .button {
-        padding: 8px;
-        font-size: 120%;
-        margin-top: 1.8rem;
-    }
 
     .upper-content {
         background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.webp');
@@ -315,6 +315,14 @@ footer i {
         background-position: left 2px top 30px;
         background-repeat: no-repeat;
         padding-top: 0;
+    }
+
+    /* RSVP Button */
+
+    .button {
+        padding: 8px;
+        font-size: 120%;
+        margin-top: 1.8rem;
     }
 
     .lower-content {
