@@ -59,7 +59,7 @@ header a {
 #menu {
     list-style-type: none;
     background-color: white;
-    font-size: 12rem;
+    font-size: 12px;
     margin: 0;
     padding-right: 10px;
     text-transform: uppercase;
