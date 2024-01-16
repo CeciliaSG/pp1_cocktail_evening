@@ -308,11 +308,10 @@ footer i {
         margin: 0 auto;
     }
 
-
     .upper-content {
         background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.webp');
         background-size: 400px;
-        background-position: left 2px top 30px;
+        background-position: left bottom;
         background-repeat: no-repeat;
         padding-top: 0;
     }
@@ -392,9 +391,9 @@ footer i {
     }
 
     .upper-content {
-        background-image: none;
+        background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952_PINK.webp');
         background-size: 400px;
-        background-position: left;
+        background-position: left bottom;
         background-repeat: no-repeat;
     }
 
