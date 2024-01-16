@@ -161,12 +161,17 @@ main {
 
 .red-heading {
     color: #EB171D;
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville',
+        serif;
 }
 
 .italic {
     font-style: italic;
     margin-top: 0.5rem;
 }
+
+/* Styles for Google map */
 
 .map {
     margin-bottom: 10px;
@@ -176,7 +181,7 @@ iframe {
     max-width: 260px;
     max-height: 200px;
     padding-left: 10px;
-    padding-right: 10pxgit;
+    padding-right: 10px;
 }
 
 #rsvp-section {
