@@ -1,79 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Metatags serch engines -->
-    <meta name="description"
-        conent="An event and invitation site for a cocktail evening with company XOXO Publishing" />
-    <meta name="keywords" content="event,cocktailevening,invite,rsvp">
+    <meta
+      name="description"
+      conent="An event and invitation site for a cocktail evening with company XOXO Publishing"
+    />
+    <meta name="keywords" content="event,cocktailevening,invite,rsvp" />
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css" />
 
     <title>Event invite to cocktail evening</title>
-</head>
+  </head>
 
-<body>
-
+  <body>
     <!-- Header, logo and nav -->
     <header>
-        <div class="logo">
-            <a href="index.html">
-                <img src="assets/images/xoxo publishing.webp" id="logo-image" alt="XOXO Publishing logo">
-            </a>
-        </div>
-        <input type="checkbox" id="nav-toggle" name="nav-toggle">
-        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
-        <nav>
-            <ul id="menu">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="rsvp.html">RSVP</a></li>
-                <li><a href="where.html" class="active">Where</a></li>
-            </ul>
-        </nav>
+      <div class="logo">
+        <a href="index.html">
+          <img
+            src="assets/images/xoxo publishing.webp"
+            id="logo-image"
+            alt="XOXO Publishing logo"
+          />
+        </a>
+      </div>
+      <input type="checkbox" id="nav-toggle" name="nav-toggle" />
+      <label for="nav-toggle" class="nav-toggle-label"
+        ><i class="fa-solid fa-bars"></i
+      ></label>
+      <nav>
+        <ul id="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="rsvp.html">RSVP</a></li>
+          <li><a href="where.html" class="active">Where</a></li>
+        </ul>
+      </nav>
     </header>
 
     <!-- Main content -->
     <main>
-        <section id="upper-content">
-            <h2 class="red-heading">Find Us</h2>
-            <p class="text-paragraphs">
-                The map below will help you find us if you are unfamiliar with the venue.
-            </p>
-
-
-            <div>
-                <ul class="info">
+      <section class="upper-content">
+        <h2 class="red-heading">Find Us</h2>
+        <p class="text-paragraphs">
+          The map below will help you find us if you are unfamiliar with the
+          venue.
+        </p>
+        <br />
+        <section class="contact-section">
+          <ul class="info">
+            <li>
+              <strong>Restaurant Solen</strong>
+              <ul>
+                <li>Hallgränd 45<br>
+                121 62 Johanneshov</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Phone</strong>
+              <ul>
+                <li>+46 (0)8 126 536 00</li>
+              </ul>
+            </li>
+            <li>
+                <strong>Mail</strong>
+                <ul>
+                    <li>info@solen.se</li>
                 </ul>
-            </div>
+            </li>
+          </ul>
         </section>
+        <h1 class="red-heading">Welcome</h1>
+      </section>
 
-        <section id="lower-content">
-           <map></map>
-        </section>
+      <section class="lower-content">
+        <div class="map">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2037.4440187656087!2d18.075332477541416!3d59.29214127459631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f792ac546d2cf%3A0xd5fdad3ef460290c!2sSOLEN!5e0!3m2!1ssv!2sse!4v1705395263661!5m2!1ssv!2sse"
+            width="600"
+            height="300"
+            style="border: 0"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+      </section>
     </main>
 
     <!-- Footer section-->
     <footer>
-        <ul id="footer-items">
-            <li class="copyright-text">Copyright XOXO Publishing</li>
+      <ul id="footer-items">
+        <li class="copyright-text">Copyright XOXO Publishing</li>
 
-            <li>
-                <a href="https://www.instagram.com/" target="_blank" rel="noopener"
-                    aria-label="Catch up with other party-goers before the big day (opens in external tab)">
-                    <i class="fa-brands fa-instagram"></i></a>
-            </li>
-            <li><a href="mailto:info@lifeistooshort.se" rel="noopener"
-                    aria-label="Contact usvia email for any questions"><i class="fa-regular fa-envelope"></i></a></li>
-        </ul>
+        <li>
+          <a
+            href="https://www.instagram.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Catch up with other party-goers before the big day (opens in external tab)"
+          >
+            <i class="fa-brands fa-instagram"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="mailto:info@lifeistooshort.se"
+            rel="noopener"
+            aria-label="Contact usvia email for any questions"
+            ><i class="fa-regular fa-envelope"></i
+          ></a>
+        </li>
+      </ul>
     </footer>
 
     <!-- Font Awesomekit-->
-    <script src="https://kit.fontawesome.com/b564c0e6b0.js" crossorigin="anonymous"></script>
-</body>
-
+    <script
+      src="https://kit.fontawesome.com/b564c0e6b0.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>

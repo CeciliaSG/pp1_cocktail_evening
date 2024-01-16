@@ -1,33 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Metatags serch engines -->
     <meta
       name="description"
-      conent="An event and invitation site for a cocktail evening with company XOXO Publishing"
-    />
-    <meta name="keywords" content="event,cocktailevening,invite,rsvp">
+      conent="An event and invitation site for a cocktail evening with company XOXO Publishing">
+    <meta name="keywords" content="event,cocktailevening,invite,rsvp" />
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css" />
 
     <title>Event invite to cocktail evening</title>
   </head>
   <body>
-
     <!-- Header, logo and nav -->
     <header>
-        <div class="logo">
-      <a href="index.html">
-        <img src="assets/images/xoxo publishing.webp" id="logo-image" alt="XOXO Publishing logo">
-    </a> </div>
-        <input type="checkbox" id="nav-toggle" name="nav-toggle">
-        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
-        <nav>
+      <div class="logo">
+        <a href="index.html">
+          <img
+            src="assets/images/xoxo publishing.webp"
+            id="logo-image"
+            alt="XOXO Publishing logo"
+          />
+        </a>
+      </div>
+      <input type="checkbox" id="nav-toggle" name="nav-toggle" />
+      <label for="nav-toggle" class="nav-toggle-label"
+        ><i class="fa-solid fa-bars"></i
+      ></label>
+      <nav>
         <ul id="menu">
           <li><a href="index.html" class="active">Home</a></li>
           <li><a href="rsvp.html">RSVP</a></li>
@@ -38,41 +43,49 @@
 
     <!-- Main content -->
     <main>
-        <section id="upper-content">
-            <h1 class="red-heading">Cocktail Evening Launch Party</h1>
-            <p class="text-paragraphs">
-              Join us for an evening of fun, musik and amazing cocktails to celerate our latest book launch <em>"A Cocktail for every occassion"</em><br>
-              Click the RSVP-button below to let us know who's coming and if you're bringing a friend.
-            </p>
+      <section class="upper-content">
+        <h1 class="red-heading">Cocktail Evening Launch Party</h1>
+        <p class="text-paragraphs">
+          Join us for an evening of fun, musik and amazing cocktails to celerate
+          our latest book launch <em>"A Cocktail for every occassion"</em>
+          Click the RSVP-button below to let us know who's coming and if you're
+          bringing a friend.
+        </p>
 
-            <form action="index.html" method="get"></form>
-            <button type="submit" class="button" id="button-rsvp">RSVP</button>
-            </form>
+        <a href="rsvp.html" alt="Clickable button" aria-label="clickable button for rsvp page/form">
+          <button class="button" id="button-rsvp">RSVP</button>
+        </a>
 
-            <div>
-                <ul class="info">
-                    <li><strong>When</strong>
-                        <ul>
-                            <li>Wednesday February 14.</li>
-                            <li>From 19.00 until late.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Where</strong>
-                        <ul>
-                            <li>Lorem ipsum</li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-        </section>
+        <ul class="info">
+          <li>
+            <strong>When</strong>
+            <ul>
+              <li>Wednesday February 14.</li>
+              <li>From 19.00 until late.</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Where</strong>
+            <ul>
+                <li><strong>Restaurant Solen</strong></li>
+              <li>
+                Hallgränd 45<br />
+                121 62 Johanneshov
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </section>
 
-        <section id="lower-content">
-            <h4 class="italic">The evening will be hosted by:</h4>
-            <p>None other than name</p>
-            <h4 class="italic">Featuring: </h4>
-            <p>DJ name.</p>
-        </section>
+      <section class="lower-content">
+        <div class="text-content">
+        <h4 class="italic">The evening will be hosted by:</h4>
+        <p>None other than name</p>
+        <h4 class="italic">Featuring:</h4>
+        <p>DJ name.</p>
+      </section>
     </main>
+    
 
     <!-- Footer section-->
     <footer>
@@ -89,7 +102,14 @@
             <i class="fa-brands fa-instagram"></i
           ></a>
         </li>
-        <li><a href="mailto:info@lifeistooshort.se" rel="noopener" aria-label="Contact us via email for any questions"><i class="fa-regular fa-envelope"></i></a></li>
+        <li>
+          <a
+            href="mailto:info@lifeistooshort.se"
+            rel="noopener"
+            aria-label="Contact us via email for any questions"
+            ><i class="fa-regular fa-envelope"></i
+          ></a>
+        </li>
       </ul>
     </footer>
 
