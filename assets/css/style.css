@@ -197,6 +197,12 @@ main {
         serif;
 }
 
+/* Style for hiding the heading */
+
+.hidden-heading {
+    display: none;
+}
+
 .italic {
     font-style: italic;
     margin-top: 0.5rem;
