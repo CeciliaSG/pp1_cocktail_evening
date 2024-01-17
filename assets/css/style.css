@@ -116,9 +116,11 @@ main {
     align-items: center;
     background-image: url('../images/palmtree_silhoutte_white.webp');
     background-size: 300px;
-    background-position: right 20px top 30px;
+    background-position: left 20px top 30px;
     background-repeat: no-repeat;
 }
+
+/* Styles rsvp-button */
 
 .button {
     padding: 6px;
@@ -162,6 +164,7 @@ main {
 .lower-content-map-section {
     padding-top: 20px;
     min-height: 220px;
+    background-color: white;
 }
 
 .red-heading {
@@ -308,15 +311,8 @@ footer i {
         margin: 0 auto;
     }
 
-    .upper-content {
-        background-image: url('../images/palmtree_silhoutte_white.webp');
-        background-size: 500px;
-        background-position: left bottom;
-        background-repeat: no-repeat;
-        padding-top: 0;
-    }
 
-    /* RSVP Button */
+    /* Styles for RSVP Button */
 
     .button {
         padding: 8px;
@@ -327,21 +323,15 @@ footer i {
     .lower-content {
         padding-top: 20px;
         min-height: 220px;
-        background-image: url('../images/Cocktail_1.webp');
-        background-size: 200px;
-        background-repeat: no-repeat;
-        background-position: right top;
     }
 
     #rsvp-form {
         max-width: 600px;
-
     }
 
     .text-paragraphs {
         max-width: 450px;
         margin: 0 auto;
-
     }
 
     iframe {
@@ -389,14 +379,6 @@ footer i {
         margin-right: 20px;
         margin-top: 117.38px;
     }
-
-    .upper-content {
-        background-image: url('../images/palmtree_silhouette_PINK.webp');
-        background-size: 500px;
-        background-position: left bottom;
-        background-repeat: no-repeat;
-    }
-
 
     .lower-content {
         padding-top: 30px;
