@@ -161,6 +161,16 @@ main {
     min-height: 140px;
 }
 
+.image-lower-content {
+    width: 100px;
+    height: 100px;
+}
+
+.image-cocktail{
+    width: 100px;
+    height: 100px;
+}
+
 .lower-content-map-section {
     padding-top: 20px;
     min-height: 220px;
@@ -317,7 +327,6 @@ footer i {
         background-position: left bottom;
         background-repeat: no-repeat;
     }
-
 
     /* Styles for RSVP Button */
 
