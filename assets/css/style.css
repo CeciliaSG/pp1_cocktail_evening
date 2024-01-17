@@ -133,6 +133,8 @@ main {
 
 #button-rsvp {
     margin-top: 5px;
+    text-transform: uppercase;
+    font-size: 80%;
 }
 
 .hover-button:hover {
@@ -227,7 +229,6 @@ iframe {
     background-color: white;
     color: black;
     padding: 0px 15px;
-    text-transform: uppercase;
     font-size: 80%;
 }
 
@@ -362,7 +363,6 @@ footer i {
         padding-top: 20px;
         min-height: 220px;
         display: flex;
-        justify-content: flex-end;
         align-items: center;
         flex-direction: row;
     }
@@ -379,6 +379,7 @@ footer i {
 
     #rsvp-form {
         max-width: 600px;
+        font-size: 80%;
     }
 
     .text-paragraphs {
@@ -483,3 +484,4 @@ footer i {
             font-size: 200%;
         }
     }
+}
