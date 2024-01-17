@@ -120,7 +120,7 @@ main {
     background-repeat: no-repeat;
 }
 
-/* Styles rsvp-button */
+/* Styles buttons */
 
 .button {
     padding: 6px;
@@ -129,6 +129,10 @@ main {
     color: white;
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+#button-rsvp {
+    margin-top: 5px;
 }
 
 .hover-button:hover {
@@ -208,6 +212,8 @@ iframe {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+/*Styles for RSVP-section and form */
 
 #rsvp-section {
     margin: 0 auto;
@@ -342,7 +348,7 @@ footer i {
         background-repeat: no-repeat;
     }
 
-    /* Styles for RSVP Button */
+    /* Styles for Buttons */
 
     .button {
         padding: 8px;
@@ -405,74 +411,75 @@ footer i {
         font-size: inherit;
     }
 
-        /* Media query larger (laptops and desktops, 992px and up) */
-        @media screen and (min-width: 992px) {
+    /* Media query larger (laptops and desktops, 992px and up) */
+    @media screen and (min-width: 992px) {
 
-            header {
-                padding-top: 0.8rem;
-                padding-bottom: 0.8rem;
-            }
-
-            #logo-image {
-                width: 100px;
-            }
-
-            main {
-                font-size: 140%;
-                margin-left: 20px;
-                margin-right: 20px;
-                margin-top: 117.38px;
-            }
-
-
-            .upper-content {
-                background-image: url('../images/palmtree_silhouette_PINK.webp');
-                background-size: 400px;
-                background-position: left 80px bottom;
-                background-repeat: no-repeat;
-            }
-
-
-            main>p {
-                text-align: center;
-                max-width: 600px;
-                margin: 0 auto;
-            }
-
-            h1,
-            h2 {
-                font-size: 150%;
-            }
-
-            .text-paragraphs {
-                max-width: 600px;
-                margin: 0 auto;
-
-            }
-
-            /* Styles lower content*/
-            
-            .lower-content {
-                padding-top: 30px;
-                min-height: 260px;
-            }
-
-            iframe {
-                max-width: 600px;
-                max-height: 220px;
-            }
-
-            /* Footer styles */
-
-            footer {
-                min-height: 100px;
-            }
-
-            #footer-items {
-                font-size: 90%;
-            }
-
-            footer i {
-                font-size: 200%;
-            }
+        header {
+            padding-top: 0.8rem;
+            padding-bottom: 0.8rem;
         }
+
+        #logo-image {
+            width: 100px;
+        }
+
+        /* Styles for main content */
+
+        main {
+            font-size: 140%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-top: 117.38px;
+        }
+
+
+        .upper-content {
+            background-image: url('../images/palmtree_silhouette_PINK.webp');
+            background-size: 400px;
+            background-position: left 80px bottom;
+            background-repeat: no-repeat;
+        }
+
+        main>p {
+            text-align: center;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        h1,
+        h2 {
+            font-size: 150%;
+        }
+
+        .text-paragraphs {
+            max-width: 600px;
+            margin: 0 auto;
+
+        }
+
+        /* Styles lower content*/
+
+        .lower-content {
+            padding-top: 20px;
+            min-height: 260px;
+        }
+
+        iframe {
+            max-width: 600px;
+            max-height: 220px;
+        }
+
+        /* Footer styles */
+
+        footer {
+            min-height: 100px;
+        }
+
+        #footer-items {
+            font-size: 90%;
+        }
+
+        footer i {
+            font-size: 200%;
+        }
+    }
