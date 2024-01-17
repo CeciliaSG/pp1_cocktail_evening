@@ -114,7 +114,7 @@ main {
     flex-direction: column;
     justify-content: start;
     align-items: center;
-    background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.webp');
+    background-image: url('../images/palmtree_silhoutte_white.webp');
     background-size: 300px;
     background-position: right 20px top 30px;
     background-repeat: no-repeat;
@@ -309,8 +309,8 @@ footer i {
     }
 
     .upper-content {
-        background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952.webp');
-        background-size: 400px;
+        background-image: url('../images/palmtree_silhoutte_white.webp');
+        background-size: 500px;
         background-position: left bottom;
         background-repeat: no-repeat;
         padding-top: 0;
@@ -391,8 +391,8 @@ footer i {
     }
 
     .upper-content {
-        background-image: url('../images/—Pngtree—palm tree silhouette icon design_5561952_PINK.webp');
-        background-size: 400px;
+        background-image: url('../images/palmtree_silhouette_PINK.webp');
+        background-size: 500px;
         background-position: left bottom;
         background-repeat: no-repeat;
     }
