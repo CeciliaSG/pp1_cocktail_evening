@@ -275,6 +275,13 @@ footer i {
 }
 
 
+/* Media query to hide the image on screens with a maximum width of 600 pixels */
+@media (max-width: 600px) {
+    .image-lower-content {
+        display: none;
+    }
+}
+
 /* Media query tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -339,9 +346,25 @@ footer i {
         margin-top: 1.8rem;
     }
 
+    /* Styles for lower-content */
+
     .lower-content {
         padding-top: 20px;
         min-height: 220px;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        flex-direction: row;
+    }
+
+    .text-content {
+        text-align: center;
+    }
+
+    .image-lower-content {
+        width: 200px;
+        height: 200px;
+        padding-bottom: 25px;
     }
 
     #rsvp-form {
@@ -378,71 +401,74 @@ footer i {
         font-size: inherit;
     }
 
-}
+        /* Media query larger (laptops and desktops, 992px and up) */
+        @media screen and (min-width: 992px) {
 
-/* Media query to hide the image on screens with a maximum width of 600 pixels */
-@media (max-width: 600px) {
-    .image-lower-content {
-        display: none;
+            header {
+                padding-top: 0.8rem;
+                padding-bottom: 0.8rem;
+            }
 
-/* Media query larger (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
+            #logo-image {
+                width: 100px;
+            }
 
-    header {
-        padding-top: 0.8rem;
-        padding-bottom: 0.8rem;
-    }
-
-    #logo-image {
-        width: 100px;
-    }
-
-    main {
-        font-size: 140%;
-        margin-left: 20px;
-        margin-right: 20px;
-        margin-top: 117.38px;
-    }
-
-    .lower-content {
-        padding-top: 30px;
-        min-height: 260px;
-    }
-
-    iframe {
-        max-width: 600px;
-        max-height: 220px;
-    }
+            main {
+                font-size: 140%;
+                margin-left: 20px;
+                margin-right: 20px;
+                margin-top: 117.38px;
+            }
 
 
-    main>p {
-        text-align: center;
-        max-width: 600px;
-        margin: 0 auto;
-    }
+            .upper-content {
+                background-image: url('../images/palmtree_silhoutte_white.webp');
+                background-size: 350px;
+                background-position: left bottom;
+                background-repeat: no-repeat;
+            }
 
-    h1,
-    h2 {
-        font-size: 150%;
-    }
 
-    .text-paragraphs {
-        max-width: 600px;
-        margin: 0 auto;
+            main>p {
+                text-align: center;
+                max-width: 600px;
+                margin: 0 auto;
+            }
 
-    }
+            h1,
+            h2 {
+                font-size: 150%;
+            }
 
-    /* Footer styles */
+            .text-paragraphs {
+                max-width: 600px;
+                margin: 0 auto;
 
-    footer {
-        min-height: 100px;
-    }
+            }
 
-    #footer-items {
-        font-size: 90%;
-    }
+            /* Styles lower content*/
+            
+            .lower-content {
+                padding-top: 30px;
+                min-height: 260px;
+            }
 
-    footer i {
-        font-size: 200%;
-    }
-}
+            iframe {
+                max-width: 600px;
+                max-height: 220px;
+            }
+
+            /* Footer styles */
+
+            footer {
+                min-height: 100px;
+            }
+
+            #footer-items {
+                font-size: 90%;
+            }
+
+            footer i {
+                font-size: 200%;
+            }
+        }
