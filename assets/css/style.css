@@ -447,19 +447,29 @@ footer i {
             margin-top: 117.38px;
         }
 
-
         .upper-content {
             background-image: url('../images/palmtree_silhouette_PINK.webp');
-            background-size: 400px;
+            background-size: 480px;
             background-position: left 80px bottom;
             background-repeat: no-repeat;
+        }
+
+
+        body .where-page {
+            background-image: url('../images/palmtree_silhoutte_white.webp');
+            background-size: 400px;
+            background-position: left;
+            background-repeat: no-repeat;
+
         }
 
         body .rsvp-page {
             background-image: url('../images/Cocktail_1.webp');
             background-size: 400px;
             background-position: left;
+            background-repeat: no-repeat;
         }
+
 
         main>p {
             text-align: center;

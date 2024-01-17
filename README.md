@@ -1,8 +1,8 @@
-<h1 align="center">Code Institute Website</h1>
+<h1 align="center"Invitation website for XOXO Pulishing launch party"</h1>
 
 [View the live project here.](https://codeinstitute.net)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is an invitation website for XOXO Pulishings Cocktail Evening Launch Party, and will be used to invite clients, friends euthors etc. to the launch party for a new book about cocktails.Visitors may come from digital invites as well as analog invites by post.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
@@ -12,26 +12,27 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
   - #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site, get information about the launch party and rsvp.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        3. As a First Time Visitor, I want to find information about how I can contact the organisers.
+        4. As a First Time Visitor, I want to find address and how to get to the venue/party.
 
   - #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        1. As a Returning Visitor, I want to find information about how to RSVP.
+        2. As a Returning Visitor, I want to find the best way to get in contact with the company with any questions I may have.
+        3. As a Returning Visitor, I want to find social media links for the company.
+        4. As a Returning Visitor, I want to find how to get to the party/venue.
 
   - #### Frequent User Goals
 
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        Are not really relevant forthis site.
 
 - ### Design
   - #### Colour Scheme
-    - The two main colours used are Code Insititue red, and white.
+    - Two main colours, pink and red,complemented by white used mainly for background and some text, and purple colour for the footer
   - #### Typography
+  - Poppins and Libre  Baskerville.
     - The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
   - #### Imagery
     - Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
@@ -59,23 +60,19 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
+2. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Git](https://git-scm.com/)
+3. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-1. [GitHub:](https://github.com/)
+4. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
+5. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
     - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
+7. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
 ## Testing
