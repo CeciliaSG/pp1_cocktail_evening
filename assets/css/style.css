@@ -238,6 +238,11 @@ iframe {
     font-size: 80%;
 }
 
+.radio-buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .text-input {
     background-color: #F4E0D9;
     color: black;
@@ -246,12 +251,6 @@ iframe {
     width: 100%;
     margin-bottom: 5px;
     padding: 3px 5px;
-}
-
-#alone,
-#two {
-    font-size: 8px;
-    padding: 5px;
 }
 
 #rsvp-button {
@@ -384,7 +383,7 @@ footer i {
     }
 
     #rsvp-form {
-        max-width: 600px;
+        width: 380px;
         font-size: 80%;
     }
 
