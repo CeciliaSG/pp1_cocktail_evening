@@ -15,6 +15,7 @@ body {
     font-family: poppins, sans-serif;
 }
 
+
 /* Generic styles */
 
 header {
@@ -347,12 +348,20 @@ footer i {
         margin: 0 auto;
     }
 
+
     .upper-content {
         background-image: url('../images/palmtree_silhoutte_white.webp');
         background-size: 320px;
         background-position: left bottom;
         background-repeat: no-repeat;
     }
+
+    body .rsvp-page {
+        background-image: url('../images/Cocktail_1.webp');
+        background-size: 300px;
+        background-position: left;
+    }
+
 
     /* Styles for Buttons */
 
@@ -444,6 +453,12 @@ footer i {
             background-size: 400px;
             background-position: left 80px bottom;
             background-repeat: no-repeat;
+        }
+
+        body .rsvp-page {
+            background-image: url('../images/Cocktail_1.webp');
+            background-size: 400px;
+            background-position: left;
         }
 
         main>p {
