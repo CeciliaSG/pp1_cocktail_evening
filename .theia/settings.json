@@ -1,5 +1,0 @@
-{
-    "[markdown]": {
-        "editor.defaultFormatter": "davidanson.vscode-markdownlint"
-    }
-}
