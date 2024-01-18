@@ -44,11 +44,17 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 - ### Wireframes
 
-  - Home Page Wireframe - <img src="assets/images/Screenshot_homepage.png">
+  - Home Page Wireframe
+  
+  <img src="assets/images/Screenshot_homepage.png">
 
-  - Mobile Wireframe - []<img src="assets/images/Screenshot_mobile.png">
+  - Mobile Wireframe
+  
+  <img src="assets/images/Screenshot_mobile.png">
 
-  - Contact Us Page Wireframe - []<img src="assets/images/Screenshot_RSVP-form.png">
+  - Contact Us Page Wireframe  
+  
+  <img src="assets/images/Screenshot_RSVP-page-sketch.png">
 
 ## Features
 
