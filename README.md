@@ -240,7 +240,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The base code for the form came from the the Love Running project but has been modified to fit the design of the site.
 
 - Solution on how to target a background image added in css on a specific page, came from [Stackoverflow] (<https://stackoverflow.com/>)
-- My mentor helped me to figure out how to fix the problem with image sizing on the where page.
+- My mentor helped me to figure out how to fix the problem with image sizing on the where page by applying background-size: contain;
+- My mentor pointed out that I should make the phone number in the footer a link.
+- My mentor helped me with the button on the Home-page that threw up an error in the HTML testing.
 
 ### Content
 
