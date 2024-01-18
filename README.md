@@ -4,7 +4,7 @@
 
 This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. Guests will be invited either via email or invitations sent by post. In the email there will be a link to the site and in the posted invitation the site address will be included. The purpose of the site is to let guest now what, when and where - and to make the RSVP-process simple.
 
-<h2 align="center"><img src="assets/images/Screenshoot_invite_website.png"></h2>
+<h2 align="center"><img src=".theia/documentation/Screenshot_website_responsive.png"></h2>
 
 ## User Experience (UX)
 
