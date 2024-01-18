@@ -24,9 +24,6 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
         3. As a Returning Visitor, I want to find social media links for the company.
         4. As a Returning Visitor, I want to find how to get to the party/venue.
 
-- #### Frequent User Goals
-
-        Are not really relevant for this site.
 
 - ### Design
 
@@ -98,7 +95,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 | Feature       | Test case        | Outcome |
 | ------------- |:-------------| :-----|
 | Logo| Click logo  |  User is returned to the Home page  |
-| RSVP-button | clicked| Takes user to the RSVP-page |
+| RSVP-button | Clicked| Takes user to the RSVP-page |
 | RSVP-form   |    Filled in and sent|   Can be filled in and sent. Can only be sent with the required information. |
 | Navbar | Test links     |    Links work and take us to the correct page.|
 | Drop-down | Test drop-down and links     |    Drops-down when clicked, and the links takesuser to the correct page. |
