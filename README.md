@@ -82,9 +82,9 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.Lighthouse was used to check the project for accessability.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]()
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results RSVP-page](https://validator.w3.org/nu/#textarea)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
-- [Lighthouse] - [Results](ceciliasg.github.io-20240118T102647.html)
+- [Lighthouse] - [Results]<img src="assets/images/Screenshoot _ighthouse_testing.png">
 
 ### Feature Testing
 
@@ -96,6 +96,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 | Navbar | Test links     |    Links work and take us to the correct page.|
 | Drop-down | Test drop-down and links     |    Drops-down when clicked, and the links takesuser to the correct page. |
 | Google map| Address, enlargement and zoom.   |    Correct address is marked and the map can be enlarged. Zoom works.  |
+| Footer-links| Click Fontawsome icons   |    Links to Instagram and the email icon opens the emial program.  |
 
 #### Exisiting Features
 
@@ -139,7 +140,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 []<img src="assets/images/Screenshot_Google_map.png">
 
-#### Footer
+#### Footer-links
 
 - This section includes a link to Instagram, and an email link that will open the users email program.
 - Makes it easy for usersto visit the comapnies Instagram page and send an email to to company.
