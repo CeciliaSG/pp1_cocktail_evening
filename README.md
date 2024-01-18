@@ -166,12 +166,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - Responsiveness testing
 
+| Device tested    | Site responsiveness <699px| Renders as expected|
+| :------------- |:-------------| :-----|
+|  Iphone 10 |   n/a | Good    |
+| Tablet   | n/a    |  Good |
+| Laptop  | Good      |    Good |
 
-| :------------- |:-------------| :-----|:-----|
-| Device tested     | Site responsiveness <699px | Renders as expected|
-|   | Iphone 10    |  n/a |    Good  |  Good    |
-|  | Tablet     |    Good |  Good      |
-|  |  Laptop   |    Good |  Good      |
 
 - The website was viewed on a variety of devices such as Laptop and iPhone 10.
 - A large amount of testing was done to ensure that all pages were linking correctly.
