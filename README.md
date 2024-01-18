@@ -1,4 +1,4 @@
-<h1 align="center">Event invitation site</h1>
+<h1 align="center">Event invitation site for XOXO Publishing's launch cocktail party</h1>
 
 [View the live project here.](https://ceciliasg.github.io/pp1_cocktail_evening/index.html)
 
