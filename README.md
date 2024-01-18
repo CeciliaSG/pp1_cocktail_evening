@@ -244,7 +244,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Media
 
 - Images were downloaded from [PNG Tree](https://pngtree.com/).
-- The Iconsin the footer was taken from FontAwesome.git
+- The Icons in the footer was taken from [FontAwesome] (https://fontawesome.com/).
 
 ### Acknowledgements
 

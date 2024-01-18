@@ -299,13 +299,6 @@ footer i {
 }
 
 
-/* Media query to hide the image on screens with a maximum width of 600 pixels */
-@media (max-width: 600px) {
-    .image-lower-content {
-        display: none;
-    }
-}
-
 /* Media query tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -360,12 +353,6 @@ footer i {
         background-size: contain;
         background-position: left bottom, right bottom;
         background-repeat: no-repeat;
-    }
-
-    body .rsvp-page {
-        background-image: url('../images/Cocktail_1.webp');
-        background-size: 300px;
-        background-position: left;
     }
 
 
@@ -457,13 +444,6 @@ footer i {
         background-position: left 80px bottom, right 20px bottom;
         background-repeat: no-repeat;
 
-    }
-
-    body .rsvp-page {
-        background-image: url('../images/Cocktail_1.webp');
-        background-size: 400px;
-        background-position: left;
-        background-repeat: no-repeat;
     }
 
 
