@@ -85,24 +85,31 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 | Feature       | Test case        | Outcome |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------| :-----|
 | Logo| Click logo  |  User is returned to the Home page  |
 | RSVP-button | clicked| Takes user to the RSVP-page |
 | RSVP-form   |    Filled in and sent|   Can be filled in and sent. Can only be sent with the required information. |
 | Navbar | Test links     |    Links work and take us to the correct page.|
 | Drop-down | Test drop-down and links     |    Drops-down when clicked, and the links takesuser to the correct page. |
-| Google map| Address and enlargement    |    Correct address is marked and themap can be enlarged  |
+| Google map| Address, enlargement and zoom.   |    Correct address is marked and the map can be enlarged. Zoom works.  |
 
+#### Exisiting Features
 
-#### RSVP-button
+##### RSVP-button
+- Featured on the Home page. - Can be clicked to take the user directly to the RSVP-page with the RSVP-form. - Makes it easy and quick for users to go to the RSVP-form and send there info.
 
-#### RSVP-form 
+##### RSVP-form 
+- Featured on the RSVP-page. - A form with required field that can only be sent when filled in correctly. A radio-button also has to be shosen for validation to work.
+- Lets users easily send their RSVP for the party.
 
-#### Navbar
+##### Navbar
+- Featured on all three pages. - The fully responsive navigation bar includes links to the logo, Home page, RSVP-page and Where-page.
+- This section lets users easily navigate across the site without having to return to the Home page in between.
 
-#### Drop-down menu
+##### Drop-down menu
 
-#### Google map
+##### Google map
+- Featured on the Where-page. - The fully responsive Google map shows users where the venue is located. - Makes it easier for users (guests) to find their way to the party.
 
 
 
