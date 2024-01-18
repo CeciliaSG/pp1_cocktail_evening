@@ -96,20 +96,33 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 #### Exisiting Features
 
 ##### RSVP-button
-- Featured on the Home page. - Can be clicked to take the user directly to the RSVP-page with the RSVP-form. - Makes it easy and quick for users to go to the RSVP-form and send there info.
+- Featured on the Home page. 
+- Can be clicked to take the user directly to the RSVP-page with the RSVP-form. 
+- Makes it easy and quick for users to go to the RSVP-form and send there info.
 
 ##### RSVP-form 
-- Featured on the RSVP-page. - A form with required field that can only be sent when filled in correctly. A radio-button also has to be shosen for validation to work.
+- Featured on the RSVP-page. 
+- A form with required field that can only be sent when filled in correctly. A radio-button also has to be shosen for validation to work.
 - Lets users easily send their RSVP for the party.
 
 ##### Navbar
-- Featured on all three pages. - The fully responsive navigation bar includes links to the logo, Home page, RSVP-page and Where-page.
+- Featured on all three pages. 
+- The fully responsive navigation bar includes links to the logo, Home page, RSVP-page and Where-page.
 - This section lets users easily navigate across the site without having to return to the Home page in between.
 
 ##### Drop-down menu
+- Featured on all three pages on mobile and tablet devices. 
+- The fully responsive dropdown menu/navigation includes links to the Home page, RSVP-page and Where-page. 
+- This feature makes iteasy for users to get to the other pages when viewing the site on mobile and tablet devices.
 
 ##### Google map
-- Featured on the Where-page. - The fully responsive Google map shows users where the venue is located. - Makes it easier for users (guests) to find their way to the party.
+- Featured on the Where-page. 
+- The fully responsive Google map shows users where the venue is located. 
+- Makes it easier for users (guests) to find their way to the party.
+
+#### Footer
+- This section includes a link to Instagram, and an email link that will open the users email program. 
+- Makes it easy for usersto visit the comapnies Instagram page and send an email to to company.
 
 
 
