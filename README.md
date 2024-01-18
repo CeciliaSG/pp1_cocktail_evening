@@ -82,9 +82,11 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.Lighthouse was used to check the project for accessability.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results RSVP-page](https://validator.w3.org/nu/#textarea)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)
+- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)
+- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
-- [Lighthouse] - [Results]<img src="assets/images/Screenshoot _ighthouse_testing.png">
+- Lighthouse - Results:<img src="assets/images/Screenshoot _ighthouse_testing.png">
 
 ### Feature Testing
 
