@@ -36,7 +36,7 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 - #### Typography
 
-- Poppins and Libre  Baskerville, both webfonts that generally work well across different browsers.
+- Poppins and Libre Baskerville, both webfonts that generally work well across different browsers.
   
 - #### Imagery
   
@@ -82,7 +82,7 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.Lighthouse was used to check the project for accessability.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]()
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
 - [Lighthouse] - [Results](ceciliasg.github.io-20240118T102647.html)
 
@@ -105,13 +105,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - Can be clicked to take the user directly to the RSVP-page with the RSVP-form.
 - Makes it easy and quick for users to go to the RSVP-form and send there info.
 
-[View](../images/Screenshot_RSVP_button.png)
+[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
 
 ##### RSVP-form
 
 - Featured on the RSVP-page.
 - A form with required field that can only be sent when filled in correctly. A radio-button also has to be shosen for validation to work.
 - Lets users easily send their RSVP for the party.
+  
+  [RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
 
 ##### Navbar
 
@@ -119,11 +121,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive navigation bar includes links to the logo, Home page, RSVP-page and Where-page.
 - This section lets users easily navigate across the site without having to return to the Home page in between.
 
+[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
+
 ##### Drop-down menu
 
 - Featured on all three pages on mobile and tablet devices.
 - The fully responsive dropdown menu/navigation includes links to the Home page, RSVP-page and Where-page.
 - This feature makes iteasy for users to get to the other pages when viewing the site on mobile and tablet devices.
+
+[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
 
 ##### Google map
 
@@ -131,10 +137,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive Google map shows users where the venue is located.
 - Makes it easier for users (guests) to find their way to the party.
 
+[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
+
 #### Footer
 
 - This section includes a link to Instagram, and an email link that will open the users email program.
 - Makes it easy for usersto visit the comapnies Instagram page and send an email to to company.
+
+[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
   
 ### Further Testing
 
