@@ -83,7 +83,7 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.Lighthouse was used to check the project for accessability.
 
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
 - [Lighthouse] - [Results](ceciliasg.github.io-20240118T102647.html)
 
 ### Feature Testing
@@ -105,7 +105,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - Can be clicked to take the user directly to the RSVP-page with the RSVP-form.
 - Makes it easy and quick for users to go to the RSVP-form and send there info.
 
-[](../images/Screenshot_RSVP_button.png)
+[View](../images/Screenshot_RSVP_button.png)
 
 ##### RSVP-form
 
@@ -138,8 +138,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   
 ### Further Testing
 
-- The Website was tested on Google Chrome and Firefox.
-- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+- The Website was tested on Google Chrome, Firefox and Safari.
+- The website was viewed on a variety of devices such as Laptop, iPhone7, iPhone 8 & iPhoneX.
 - A large amount of testing was done to ensure that all pages were linking correctly.
 - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
