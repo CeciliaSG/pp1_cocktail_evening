@@ -44,7 +44,7 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 - ### Wireframes
 
-  - Home Page Wireframe - []<img src="assets/images/Screenshot_homepage.png">
+  - Home Page Wireframe - <img src="assets/images/Screenshot_homepage.png">
 
   - Mobile Wireframe - []<img src="assets/images/Screenshot_mobile.png">
 
@@ -75,16 +75,14 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
     - GitHub is used to store the projects code after being pushed from Git.
 5. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
     - Photoshop was used to change colour of images.
-6. [Canva:] (https://www.canva.com)
+6. [Canva:](https://www.canva.com)
     - Canva was used to create the sketches during the design process.
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.Lighthouse was used to check the project for accessability.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)
-- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)
-- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
 - Lighthouse - Results:<img src="assets/images/Screenshoot _ighthouse_testing.png">
 
@@ -108,7 +106,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - Can be clicked to take the user directly to the RSVP-page with the RSVP-form.
 - Makes it easy and quick for users to go to the RSVP-form and send there info.
 
-[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
+<img src="assets/images/Screenshot_RSVP_button.png">
 
 ##### RSVP-form
 
@@ -116,7 +114,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - A form with required field that can only be sent when filled in correctly. A radio-button also has to be shosen for validation to work.
 - Lets users easily send their RSVP for the party.
   
-  []<img src="assets/images/Screenshot_RSVP-form.png">
+  <img src="assets/images/Screenshot_RSVP-form.png">
 
 ##### Navbar
 
@@ -124,7 +122,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive navigation bar includes links to the logo, Home page, RSVP-page and Where-page.
 - This section lets users easily navigate across the site without having to return to the Home page in between.
 
-[]<img src="assets/images/Screenshot_navbar.png">
+<img src="assets/images/Screenshot_navbar.png">
 
 ##### Drop-down menu
 
@@ -132,7 +130,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive dropdown menu/navigation includes links to the Home page, RSVP-page and Where-page.
 - This feature makes iteasy for users to get to the other pages when viewing the site on mobile and tablet devices.
 
-[]<img src="assets/images/Screenshot_mobile_dropdown.png">
+<img src="assets/images/Screenshot_mobile_dropdown.png">
 
 ##### Google map
 
@@ -140,19 +138,19 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive Google map shows users where the venue is located.
 - Makes it easier for users (guests) to find their way to the party.
 
-[]<img src="assets/images/Screenshot_Google_map.png">
+<img src="assets/images/Screenshot_Google_map.png">
 
 #### Footer-links
 
 - This section includes a link to Instagram, and an email link that will open the users email program.
 - Makes it easy for usersto visit the comapnies Instagram page and send an email to to company.
 
-[]<img src="assets/images/Screenshot_footer.png">
+<img src="assets/images/Screenshot_footer.png">
   
 ### Further Testing
 
 - The Website was tested on Google Chrome, Firefox and Safari.
-- The website was viewed on a variety of devices such as Laptop, iPhone7, iPhone 8 & iPhoneX.
+- The website was viewed on a variety of devices such as Laptop and iPhone 10.
 - A large amount of testing was done to ensure that all pages were linking correctly.
 - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
@@ -218,7 +216,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The base code for the form came from the the Love Running project but has been modified to fit the design of the site.
 
-- Solution on how to target the background image added in css on a specific page came from [Stackoverflow] (<https://stackoverflow.com/>)
+- Solution on how to target a background image added in css on a specific page, came from [Stackoverflow] (<https://stackoverflow.com/>)
 
 ### Content
 
