@@ -46,15 +46,15 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
   - Home Page Wireframe
   
-  <img src=".theia/Documentation/Screenshot_homepage.png">
+  <img src=".theia/documentation/Screenshot_homepage.png">
 
   - Mobile Wireframe
   
-  <img src=".theia/Documentation/Screenshot_mobilemenu.png">
+  <img src=".theia/documentation/Screenshot_mobilemenu.png">
 
   - Contact Us Page Wireframe  
   
-  <img src=".theia/Documentation/Screenshot_RSVP-page-sketch.png">
+  <img src=".theia/documentation/Screenshot_RSVP-page-sketch.png">
 
 ## Features
 
@@ -90,8 +90,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
-- Lighthouse - Results desktop:<img src="assets/images/Screenshoot _ighthouse_testing.png">
-- Results mobile:<img src="assets/images/Screenshot_lighthouse_testing_mobile.png">
+- Lighthouse - Results desktop:<img src=".theia/documentation/Screenshoot _ighthouse_testing.png">
+- Results mobile:<img src=".theia/documentation/Screenshot_lighthouse_testing_mobile.png">
 
 ### Feature Testing
 
@@ -113,7 +113,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - Can be clicked to take the user directly to the RSVP-page with the RSVP-form.
 - Makes it easy and quick for users to go to the RSVP-form and send there info.
 
-<img src=".theia/Documentation/Screenshot_RSVP_button.png">
+<img src=".theia/documentation/Screenshot_RSVP_button.png">
 
 ##### RSVP-form
 
@@ -121,7 +121,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - A form with required field that can only be sent when filled in correctly. A radio-button also has to be shosen for validation to work.
 - Lets users easily send their RSVP for the party.
   
-  <img src=".theia/Documentation/Screenshot_RSVP-form.png">
+  <img src=".theia/documentation/Screenshot_RSVP-form.png">
 
 ##### Navbar
 
@@ -129,7 +129,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive navigation bar includes links to the logo, Home page, RSVP-page and Where-page.
 - This section lets users easily navigate across the site without having to return to the Home page in between.
 
-<img src=".theia/Documentation/Screenshot_navbar.png">
+<img src=".theia/documentation/Screenshot_navbar.png">
 
 ##### Drop-down menu
 
@@ -137,7 +137,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive dropdown menu/navigation includes links to the Home page, RSVP-page and Where-page.
 - This feature makes iteasy for users to get to the other pages when viewing the site on mobile and tablet devices.
 
-<img src=".theia/Documentation/Screenshot_mobile_dropdown.png">
+<img src=".theia/documentation/Screenshot_mobile_dropdown.png">
 
 ##### Google map
 
@@ -145,14 +145,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive Google map shows users where the venue is located.
 - Makes it easier for users (guests) to find their way to the party.
 
-<img src=".theia/Documentation/Screenshot_Google_map.png">
+<img src=".theia/documentation/Screenshot_Google_map.png">
 
 #### Footer-links
 
 - This section includes a link to Instagram, and an email link that will open the users email program.
 - Makes it easy for usersto visit the comapnies Instagram page and send an email to to company.
 
-<img src=".theia/Documentation/Screenshot_footer.png">
+<img src=".theia/documentation/Screenshot_footer.png">
   
 ### Further Testing
 
@@ -242,7 +242,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - Solution on how to target a background image added in css on a specific page, came from [Stackoverflow] (<https://stackoverflow.com/>)
 - My mentor helped me to figure out how to fix the problem with image sizing on the where page by applying background-size: contain;
 - My mentor pointed out that I should make the phone number in the footer a link.
-- My mentor helped me with the button on the Home-page that threw up an error in the HTML testing.
+- My mentor helped me with the button on the Home-page that threw up an error in the HTML testing. Code from jsfiddle.net.
 
 ### Content
 
