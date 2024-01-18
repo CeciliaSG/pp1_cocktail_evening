@@ -85,8 +85,9 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.Lighthouse was used to check the project for accessability.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [No errors were returned when passing through the official W3C validator.
+Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
+- [No errors were found when passing through the official W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
 - Lighthouse - Results desktop:<img src=".theia/documentation/Screenshot_lighthouse_mobile.png">
 - Results mobile:<img src=".theia/documentation/Screenshot_lighthouse_mobile.png">
 
@@ -171,14 +172,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 - The website was viewed on a variety of devices such as Laptop and iPhone 10.
-- A large amount of testing was done to ensure that all pages were linking correctly.
-- Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+- Testing was done to ensure that all pages were linking correctly.
+- Family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Known Bugs
-
--
--
--
 
 ## Deployment
 
@@ -234,7 +230,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The base code for the header, nav and dropdown menu came from Love Running project but was modified to better fit the design of the site.
 
-- The base code for the form came from the the Love Running project but has been modified to fit the design of the site.
+- The base code for the form came from the the Love Running project but has been modified to fit the design of the site. Instructions on how to implement form validation was taken from the instructions in the Love Running project.
 
 - Solution on how to target a background image added in css on a specific page, came from [Stackoverflow] (<https://stackoverflow.com/>)
 - My mentor helped me to figure out how to fix the problem with image sizing on the where page by applying background-size: contain;
@@ -248,6 +244,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Media
 
 - Images were downloaded from [PNG Tree](https://pngtree.com/).
+- The Iconsin the footer was taken from FontAwesome.git
 
 ### Acknowledgements
 
