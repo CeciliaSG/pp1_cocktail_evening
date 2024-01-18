@@ -49,7 +49,8 @@ This is an invitation website for XOXO Pulishings Cocktail Evening Launch Party,
 
 - Responsive on all device sizes
 
-- Interactive elements
+- Interactive elements: button, links, rsvp-form, radio-buttons, drop-down menu, Google map.
+
 
 ## Technologies Used
 
@@ -61,19 +62,17 @@ This is an invitation website for XOXO Pulishings Cocktail Evening Launch Party,
 ### Frameworks, Libraries & Programs Used
 
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
+    - Google fonts were used to import the 'Libre askerville' and 'Poppins' font into the style.css file which is used on all pages throughout the project.
+2. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-2. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 3. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 4. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 5. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
-7. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Photoshop was used to change colour of images.
+7. [Canva:] (https://www.canva.com/)
+    Canva was used to create the sketches during the design process.
 
 ## Testing
 
@@ -81,8 +80,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-
-### Testing User Stories from User Experience (UX) Section
 
 - #### First Time Visitor Goals
 
@@ -147,9 +144,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
-- On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-  - A white gap can be seen to the right of the footer and navigation bar as a result.
-- On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+- 
+  - 
+- 
 
 ## Deployment
 
@@ -203,24 +200,24 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-- The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
+- The code for the header, nav and dropdown menu came from Love Running project but was modified to better fit the design of the site.
 
-- [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+- The code for the form came for the form came from the Love Running project but has been modified to fit the design of the site.
 
-- [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+- Solution on how to target the background image added in css on a specific page came from (https://stackoverflow.com/)
 
 ### Content
 
 - All content was written by the developer.
 
-- Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+- 
 
 ### Media
 
-- All Images were created by the developer.
+- Images were downloaded from (https://pngtree.com/).
 
 ### Acknowledgements
 
 - My Mentor for continuous helpful feedback.
 
-- Tutor support at Code Institute for their support.
+- 
