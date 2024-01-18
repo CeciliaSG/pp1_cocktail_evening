@@ -156,6 +156,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Further Testing
 
 - The Website was tested on Google Chrome, Firefox and Safari.
+
+Colons can be used to align columns.
+
+| Browser tested     | Intended appearance| Inteded responsiveness|
+| ------------- |:-------------:| -----:|
+|     | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 - The website was viewed on a variety of devices such as Laptop and iPhone 10.
 - A large amount of testing was done to ensure that all pages were linking correctly.
 - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
