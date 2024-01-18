@@ -1,8 +1,8 @@
-<h1 align="center"Invitation website for XOXO Pulishing launch party"</h1>
+<h1 align="center"Event invitation site for XOXO Pulishing's book launch cocktail party"</h1>
 
 [View the live project here.](https://codeinstitute.net)
 
-This is an invitation website for XOXO Pulishings Cocktail Evening Launch Party, and will be used to invite clients, friends euthors etc. to the launch party for a new book about cocktails.Visitors may come from digital invites as well as analog invites by post.
+This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. Guests will be invited either via email or invitations sent by post. In the email there will be a link to the site and in the posted invitation the site address will beincluded. The purpose of the site is to let guest now what, when and where - and make RSVPeing simple.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
