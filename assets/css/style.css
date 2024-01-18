@@ -110,14 +110,14 @@ main {
 
 .upper-content {
     flex-grow: 1;
-    padding: 15px 30px;
+    padding-top: 30px;
     display: flex;
     flex-direction: column;
     justify-content: start;
     align-items: center;
     background-image: url('../images/palmtree_silhoutte_white.webp');
-    background-size: 300px;
-    background-position: right 70px top 40px;
+    background-size: contain;
+    background-position: right 70px bottom;
     background-repeat: no-repeat;
 }
 
@@ -144,7 +144,6 @@ main {
     color: white;
 }
 
-
 .info {
     list-style-type: none;
     display: flex;
@@ -170,11 +169,15 @@ main {
 
 .lower-content {
     background-color: white;
-    padding-top: 15px;
+    padding-top: 10px;
     flex-grow: 0;
     min-height: 140px;
     display: flex;
     justify-content: center;
+}
+
+.contact-section {
+    padding-top: 10px;
 }
 
 .image-lower-content {
@@ -256,8 +259,6 @@ iframe {
     margin-bottom: 5px;
     padding: 3px 5px;
 }
-
-
 
 
 /* Footer styles */
@@ -356,7 +357,7 @@ footer i {
 
     .upper-content {
         background: url('../images/2_palmtree_silhouette_white.webp');
-        background-size: 270px;
+        background-size: contain;
         background-position: left bottom, right bottom;
         background-repeat: no-repeat;
     }
@@ -381,19 +382,15 @@ footer i {
     .lower-content {
         padding-top: 20px;
         min-height: 220px;
-        display: flex;
-        align-items: center;
-        flex-direction: row;
     }
 
     .text-content {
-        text-align: center;
+        width: 100%;
+        position: absolute;
     }
 
     .image-lower-content {
-        width: 200px;
         height: 200px;
-        padding-bottom: 25px;
     }
 
     #rsvp-form {
@@ -457,7 +454,7 @@ footer i {
         background: url('../images/2_palmtree_silhouette_PINK.webp'),
             url('../images/palmtree_silhoutte_white.webp');
         background-size: contain;
-        background-position: left 80px bottom, right bottom;
+        background-position: left 200px bottom, right 200px bottom;
         background-repeat: no-repeat;
 
     }
