@@ -159,16 +159,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 | Browser tested     | Intended appearance| Inteded responsiveness|
 | :------------- |:-------------| :-----|
-|  | Chrome    | Good    |   Good |
+|  Chrome  |   Good | Good    |
 | Firefox    | Good      |  Good |
 | Safari | Good      |    Good |
 
 - Responsiveness testing
 
-| Browser tested     | Intended appearance| Intended responsiveness|
+
 | :------------- |:-------------| :-----|:-----|
-|  | Devices tested  | Site responsiveness >=768px   |  Site responsiveness <699px   |  Renders as expected  |
-|    | Iphone 10    |  n/a |    Good  |  Good    |
+| Device tested     | Site responsiveness <699px | Renders as expected|
+|   | Iphone 10    |  n/a |    Good  |  Good    |
 |  | Tablet     |    Good |  Good      |
 |  |  Laptop   |    Good |  Good      |
 
