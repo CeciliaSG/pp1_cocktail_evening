@@ -80,6 +80,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+- [Lighthouse] ()
 
 - #### First Time Visitor Goals
 
@@ -204,7 +205,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The code for the form came for the form came from the Love Running project but has been modified to fit the design of the site.
 
-- Solution on how to target the background image added in css on a specific page came from (https://stackoverflow.com/)
+- Solution on how to target the background image added in css on a specific page came from [Stackoverflow] (https://stackoverflow.com/)
 
 ### Content
 
