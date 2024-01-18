@@ -1,4 +1,4 @@
-<h1 align="center"Event invitation site for XOXO Pulishing's book launch cocktail party"</h1>
+<h1 align="center">Event invitation site</h1>
 
 [View the live project here.](https://ceciliasg.github.io/pp1_cocktail_evening/index.html)
 
@@ -10,31 +10,37 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 - ### User stories
 
-  - #### First Time Visitor Goals
+- #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site, get information about the launch party and rsvp.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to find information about how I can contact the organisers.
         4. As a First Time Visitor, I want to find address and how to get to the venue/party.
 
-  - #### Returning Visitor Goals
+- #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to find information about how to RSVP.
         2. As a Returning Visitor, I want to find the best way to get in contact with the company with any questions I may have.
         3. As a Returning Visitor, I want to find social media links for the company.
         4. As a Returning Visitor, I want to find how to get to the party/venue.
 
-  - #### Frequent User Goals
+- #### Frequent User Goals
 
         Are not really relevant for this site.
 
 - ### Design
-  - #### Colour Scheme
-    - Two main colours, pink and red,complemented by white - used mainly for background and some text, and a purple colour for the footer and hover.
-  - #### Typography
-  - Poppins and Libre  Baskerville, both webfonts that generally work well across different browsers.
-  - #### Imagery
-    - For this website the main focus is information, letting visitors know what, when and where for the event and how to RSVP, so the illustrations are added to making the feeling of the site more fun.
+
+- #### Colour Scheme
+  
+- Two main colours, pink and red,complemented by white - used mainly for background and some text, and a purple colour for the footer and hover.
+
+- #### Typography
+
+- Poppins and Libre  Baskerville, both webfonts that generally work well across different browsers.
+  
+- #### Imagery
+  
+- For this website the main focus is information, letting visitors know what, when and where for the event and how to RSVP, so the illustrations are added to making the feeling of the site more fun.
 
 - ### Wireframes
 
@@ -49,7 +55,6 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 - Responsive on all device sizes.
 
 - Interactive elements: button, links, rsvp-form, radio-buttons, drop-down menu, Google map.
-
 
 ## Technologies Used
 
@@ -70,8 +75,8 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
     - GitHub is used to store the projects code after being pushed from Git.
 5. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
     - Photoshop was used to change colour of images.
-7. [Canva:] (https://www.canva.com/)
-    Canva was used to create the sketches during the design process.
+6. [Canva:] (https://www.canva.com)
+    - Canva was used to create the sketches during the design process.
 
 ## Testing
 
@@ -82,7 +87,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - [Lighthouse] - [Results](ceciliasg.github.io-20240118T102647.html)
 
 ### Feature Testing
-
 
 | Feature       | Test case        | Outcome |
 | ------------- |:-------------| :-----|
@@ -96,36 +100,42 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 #### Exisiting Features
 
 ##### RSVP-button
-- Featured on the Home page. 
-- Can be clicked to take the user directly to the RSVP-page with the RSVP-form. 
+
+- Featured on the Home page.
+- Can be clicked to take the user directly to the RSVP-page with the RSVP-form.
 - Makes it easy and quick for users to go to the RSVP-form and send there info.
 
-##### RSVP-form 
-- Featured on the RSVP-page. 
+[](../images/Screenshot_RSVP_button.png)
+
+##### RSVP-form
+
+- Featured on the RSVP-page.
 - A form with required field that can only be sent when filled in correctly. A radio-button also has to be shosen for validation to work.
 - Lets users easily send their RSVP for the party.
 
 ##### Navbar
-- Featured on all three pages. 
+
+- Featured on all three pages.
 - The fully responsive navigation bar includes links to the logo, Home page, RSVP-page and Where-page.
 - This section lets users easily navigate across the site without having to return to the Home page in between.
 
 ##### Drop-down menu
-- Featured on all three pages on mobile and tablet devices. 
-- The fully responsive dropdown menu/navigation includes links to the Home page, RSVP-page and Where-page. 
+
+- Featured on all three pages on mobile and tablet devices.
+- The fully responsive dropdown menu/navigation includes links to the Home page, RSVP-page and Where-page.
 - This feature makes iteasy for users to get to the other pages when viewing the site on mobile and tablet devices.
 
 ##### Google map
-- Featured on the Where-page. 
-- The fully responsive Google map shows users where the venue is located. 
+
+- Featured on the Where-page.
+- The fully responsive Google map shows users where the venue is located.
 - Makes it easier for users (guests) to find their way to the party.
 
 #### Footer
-- This section includes a link to Instagram, and an email link that will open the users email program. 
+
+- This section includes a link to Instagram, and an email link that will open the users email program.
 - Makes it easy for usersto visit the comapnies Instagram page and send an email to to company.
-
-
-
+  
 ### Further Testing
 
 - The Website was tested on Google Chrome and Firefox.
@@ -135,9 +145,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
-- 
-- 
-- 
+-
+-
+-
 
 ## Deployment
 
@@ -195,7 +205,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The base code for the form came from the the Love Running project but has been modified to fit the design of the site.
 
-- Solution on how to target the background image added in css on a specific page came from [Stackoverflow] (https://stackoverflow.com/)
+- Solution on how to target the background image added in css on a specific page came from [Stackoverflow] (<https://stackoverflow.com/>)
 
 ### Content
 
