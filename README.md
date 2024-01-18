@@ -44,11 +44,11 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 - ### Wireframes
 
-  - Home Page Wireframe - [View](https://github.com/)
+  - Home Page Wireframe - []<img src="assets/images/Screenshot_homepage.png">
 
-  - Mobile Wireframe - [View](https://github.com/)
+  - Mobile Wireframe - []<img src="assets/images/Screenshot_mobile.png">
 
-  - Contact Us Page Wireframe - [View](https://github.com/)
+  - Contact Us Page Wireframe - []<img src="assets/images/Screenshot_RSVP-form.png">
 
 ## Features
 
@@ -113,7 +113,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - A form with required field that can only be sent when filled in correctly. A radio-button also has to be shosen for validation to work.
 - Lets users easily send their RSVP for the party.
   
-  [RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
+  []<img src="assets/images/Screenshot_RSVP-form.png">
 
 ##### Navbar
 
@@ -121,7 +121,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive navigation bar includes links to the logo, Home page, RSVP-page and Where-page.
 - This section lets users easily navigate across the site without having to return to the Home page in between.
 
-[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
+[]<img src="assets/images/Screenshot_navbar.png">
 
 ##### Drop-down menu
 
@@ -129,7 +129,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive dropdown menu/navigation includes links to the Home page, RSVP-page and Where-page.
 - This feature makes iteasy for users to get to the other pages when viewing the site on mobile and tablet devices.
 
-[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
+[]<img src="assets/images/Screenshot_mobile_dropdown.png">
 
 ##### Google map
 
@@ -137,14 +137,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - The fully responsive Google map shows users where the venue is located.
 - Makes it easier for users (guests) to find their way to the party.
 
-[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
+[]<img src="assets/images/Screenshot_Google_map.png">
 
 #### Footer
 
 - This section includes a link to Instagram, and an email link that will open the users email program.
 - Makes it easy for usersto visit the comapnies Instagram page and send an email to to company.
 
-[RSVP-button]<img src="assets/images/Screenshot_RSVP_button.png">
+[]<img src="assets/images/Screenshot_footer.png">
   
 ### Further Testing
 
