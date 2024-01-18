@@ -140,6 +140,7 @@ main {
 
 .hover-button:hover {
     background-color: #342646;
+    color: white;
 }
 
 
@@ -274,7 +275,7 @@ footer {
 #footer-items {
     text-align: center;
     list-style-type: none;
-    font-size: 70%;
+    font-size: 40%;
     text-transform: uppercase;
     color: #F4E0D9;
     display: flex;
@@ -289,7 +290,7 @@ footer i {
 }
 
 .copyright-text {
-    font-size: 60%;
+    font-size: 40%;
 }
 
 .fa-phone {
@@ -459,14 +460,6 @@ footer i {
         background-position: left 80px bottom, right bottom;
         background-repeat: no-repeat;
     }
-
-    body.where-page {
-        background: url('../images/2_palmtree_silhouette_PINK.webp');
-        background-size: 350px;
-        background-position: left 80px bottom, right bottom;
-        background-repeat: no-repeat;
-    }
-
 
     body .rsvp-page {
         background-image: url('../images/Cocktail_1.webp');
