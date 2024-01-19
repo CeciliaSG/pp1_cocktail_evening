@@ -28,7 +28,7 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 - #### Colour Scheme
   
-- Two main colours, pink and red,complemented by white - used mainly for background and some text, and a purple colour for the footer and hover.
+- Two main colours, pink and red, complemented by white - used for background, as well as a purple colour for the footer and button-hover.
 
 - #### Typography
 
