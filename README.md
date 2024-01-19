@@ -43,15 +43,15 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
   - Home Page Wireframe
   
-  <img src=".theia/documentation/Screenshot_homepage.png">
+  <img src="documentation/Screenshot_homepage.png">
 
   - Mobile Wireframe
   
-  <img src=".theia/documentation/Screenshot_mobilemenu.png">
+  <img src="documentation/Screenshot_mobile.png">
 
-  - Contact Us Page Wireframe  
+  - RSVP Page Wireframe  
   
-  <img src=".theia/documentation/Screenshot_RSVP-page-sketch.png">
+  <img src="documentation/Screenshot_RSVP-page-sketch.png">
 
 ## Features
 
@@ -85,10 +85,11 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.Lighthouse was used to check the project for accessability.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [No errors were returned when passing through the official W3C validator.
-Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
-- [No errors were found when passing through the official W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
-- Lighthouse - Results desktop:<img src=".theia/documentation/Screenshot_lighthouse_mobile.png">
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - No errors were returned when passing through the official W3C validator.
+[Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
+- No errors were found when passing through the official W3C CSS Validator (https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
+- Lighthouse testing:
+- Results desktop:<img src=".theia/documentation/Screenshot_lighthouse_mobile.png">
 - Results mobile:<img src=".theia/documentation/Screenshot_lighthouse_mobile.png">
 
 ### Feature Testing
@@ -111,7 +112,7 @@ Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.gith
 - Can be clicked to take the user directly to the RSVP-page with the RSVP-form.
 - Makes it easy and quick for users to go to the RSVP-form and send there info.
 
-<img src=".theia/documentation/Screenshot_RSVP_button.png">
+<img src="documentation/Screenshot_RSVP_button.png">
 
 ##### RSVP-form
 
@@ -119,7 +120,7 @@ Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.gith
 - A form with required field that can only be sent when filled in correctly. A radio-button also has to be shosen for validation to work.
 - Lets users easily send their RSVP for the party.
   
-  <img src=".theia/documentation/Screenshot_RSVP-form.png">
+  <img src="documentation/Screenshot_RSVP-form.png">
 
 ##### Navbar
 
@@ -127,7 +128,7 @@ Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.gith
 - The fully responsive navigation bar includes links to the logo, Home page, RSVP-page and Where-page.
 - This section lets users easily navigate across the site without having to return to the Home page in between.
 
-<img src=".theia/documentation/Screenshot_navbar.png">
+<img src="documentation/Screenshot_navbar.png">
 
 ##### Drop-down menu
 
@@ -135,7 +136,7 @@ Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.gith
 - The fully responsive dropdown menu/navigation includes links to the Home page, RSVP-page and Where-page.
 - This feature makes iteasy for users to get to the other pages when viewing the site on mobile and tablet devices.
 
-<img src=".theia/documentation/Screenshot_mobile_dropdown.png">
+<img src="documentation/Screenshot_mobile_dropdown.png">
 
 ##### Google map
 
@@ -143,14 +144,14 @@ Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.gith
 - The fully responsive Google map shows users where the venue is located.
 - Makes it easier for users (guests) to find their way to the party.
 
-<img src=".theia/documentation/Screenshot_Google_map.png">
+<img src="documentation/Screenshot_Google_map.png">
 
 #### Footer-links
 
 - This section includes a link to Instagram, and an email link that will open the users email program.
 - Makes it easy for usersto visit the comapnies Instagram page and send an email to to company.
 
-<img src=".theia/documentation/Screenshot_footer.png">
+<img src="documentation/Screenshot_footer.png">
   
 ### Further Testing
 
