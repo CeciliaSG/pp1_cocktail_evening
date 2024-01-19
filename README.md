@@ -40,17 +40,14 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 - ### Wireframes
 
-  - Home Page Wireframe
-
-  <img src="documentation/Screenshot_homepage.png">
+- Home Page Wireframe
+<img src="documentation/Screenshot_homepage.png">
   
-  - Mobile Wireframe
-  
+- Mobile Wireframe
   <img src="documentation/Screenshot_mobile.png">
 
-  - RSVP Page Wireframe  
-
-  <img src="documentation/Screenshot_RSVP-page-sketch.png">
+- RSVP Page Wireframe  
+<img src="documentation/Screenshot_RSVP-page-sketch.png">
 
 ## Features
 
@@ -190,8 +187,7 @@ The font-color was changed black, and below are the new test results.
 
 #### Accessability Testing
 
-- Color contrast testing
-  The site was checkedfor colour contrast with [Coolors.co](https://coolors.co/). No issues were found.
+- The site was checked for colour contrast with [Coolors.co](https://coolors.co/). No issues were found.
 - The site was manually checked for aria-labels. The RSVP-form was missing labels for the fields and the button, so these were added.
 
 
