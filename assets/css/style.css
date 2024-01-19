@@ -131,6 +131,7 @@ main {
     border: 0px;
     color: black;
     margin-top: 0.5rem;
+    text-decoration: none;
 }
 
 #button-rsvp-form {
