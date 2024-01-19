@@ -4,7 +4,7 @@
 
 This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. Guests will be invited either via email or invitations sent by post. In the email there will be a link to the site and in the posted invitation the site address will be included. The purpose of the site is to let guest now what, when and where - and to make the RSVP-process simple.
 
-<h2 align="center"><img src=".theia/documentation/Screenshot_website_responsive.png"></h2>
+<h2 align="center"><img src="documentation/Screenshot_website_responsive.png"></h2>
 
 ## User Experience (UX)
 
@@ -83,9 +83,9 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.Lighthouse was used to check the project for accessability.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - No errors were returned when passing through the official W3C validator.
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - On first test an error was returned on the RSVP-button on home-page. After changing it no new errors were returned when passing through the official W3C validator.
 [Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
-- No errors were found when passing through the official W3C CSS Validator (https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
+- No errors were found when passing through the official [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
 - Lighthouse testing:
 On the first runthrogh the testing indicated a issue with the colours of the RSVP-button.
 
@@ -236,9 +236,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The base code for the header, nav and dropdown menu came from Love Running project but was modified to better fit the design of the site.
 
 - The base code for the form came from the the Love Running project but has been modified to fit the design of the site. Instructions on how to implement form validation was taken from the instructions in the Love Running project.
-
-- Solution on how to target a background image added in css on a specific page, came from [Stackoverflow] (<https://stackoverflow.com/>)
-- My mentor helped me to figure out how to fix the problem with image sizing on the where page by applying background-size: contain;
+  
+- I've used Google and [Stackoverflow](<https://stackoverflow.com/>) to search for solutions to issues and problems that have arisen. But no specific code has been copied.
+- My mentor helped me to figure out how to fix the problem with image sizing on the Where-page, by applying background-size: contain;
 - My mentor pointed out that I should make the phone number in the footer a link.
 - My mentor helped me with the button on the Home-page that threw up an error in the HTML testing. Code from jsfiddle.net.
 
@@ -249,7 +249,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Media
 
 - Images were downloaded from [PNG Tree](https://pngtree.com/).
-- The Icons in the footer was taken from [FontAwesome] (https://fontawesome.com/).
+- The Icons in the footer was taken from [FontAwesome](https://fontawesome.com/).
 
 ### Acknowledgements
 
