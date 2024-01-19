@@ -249,14 +249,12 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-- The base code for the header, nav and dropdown menu came from Love Running project but was modified to better fit the design of the site.
-
+- The base code for the header, nav and dropdown menu came from Love Running project but was modified to better fit the design of the site. I've used whatI learned during the lessons and on the Love Running project to create the sie.
 - The base code for the form came from the the Love Running project but has been modified to fit the design of the site. Instructions on how to implement form validation was taken from the instructions in the Love Running project.
-  
-- I've used Google and [Stackoverflow](<https://stackoverflow.com/>) to search for solutions to issues and problems that have arisen. But no specific code has been copied.
-- My mentor helped me to figure out how to fix the problem with image sizing on the Where-page, by applying background-size: contain;
+- I've used Google and [Stackoverflow](<https://stackoverflow.com/>) to search for solutions to issues and problems that have arisen during the project. But no specific code was copied.
+- My mentor helped me to figure out how to fix the problem with image sizing on the Where-page, by applying background-size: contain;, instead of width and height.
 - My mentor pointed out that I should make the phone number in the footer a link.
-- My mentor helped me with the button on the Home-page that threw up an error in the HTML testing. Code from jsfiddle.net.
+- My mentor helped me with the button on the Home-page that returned up an error in the HTML testing. HTML code came from jsfiddle.net.
 
 ### Content
 
