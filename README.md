@@ -24,7 +24,6 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
         3. As a Returning Visitor, I want to find social media links for the company.
         4. As a Returning Visitor, I want to find how to get to the party/venue.
 
-
 - ### Design
 
 - #### Colour Scheme
@@ -42,14 +41,20 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 - ### Wireframes
 
   - Home Page Wireframe
+--
+
   
   <img src="documentation/Screenshot_homepage.png">
-
+  --
+  
   - Mobile Wireframe
+--
   
   <img src="documentation/Screenshot_mobile.png">
+--
 
   - RSVP Page Wireframe  
+--
   
   <img src="documentation/Screenshot_RSVP-page-sketch.png">
 
@@ -174,6 +179,9 @@ The font-color was changed black, and below are the new test results.
 |  Iphone 10 |   n/a | Good    |
 | Tablet   | n/a    |  Good |
 | Laptop  | Good      |    Good |
+
+- Color contrast testing
+  The site was checkedfor colour contrast with [Coolors.co](https://coolors.co/). No issues were found.
 
 
 - The website was viewed on a variety of devices such as Laptop and iPhone 10.
