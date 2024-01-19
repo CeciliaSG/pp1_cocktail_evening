@@ -1,6 +1,6 @@
 <h1 align="center">Event invitation site for XOXO Publishing's launch cocktail party</h1>
 
-[View the live project here.](https://ceciliasg.github.io/pp1_cocktail_evening/index.html)
+[View the live project here.](https://ceciliasg.github.io/pp1_cocktail_evening/)
 
 This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. Guests will be invited either via email or invitations sent by post. In the email there will be a link to the site and in the posted invitation the site address will be included. The purpose of the site is to let guest now what, when and where - and to make the RSVP-process simple.
 
@@ -43,7 +43,7 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 - Home Page Wireframe
 <img src="documentation/Screenshot_homepage.png">
 
-- Mobile Wireframe--
+- Mobile Wireframe
   
 <img src="documentation/Screenshot_mobile.png">
 
