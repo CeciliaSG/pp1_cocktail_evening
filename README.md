@@ -188,8 +188,11 @@ The font-color was changed black, and below are the new test results.
 | Tablet   | n/a    |  Good |
 | Laptop  | Good      |    Good |
 
+#### Accessability Testing
+
 - Color contrast testing
   The site was checkedfor colour contrast with [Coolors.co](https://coolors.co/). No issues were found.
+- The site was manually checked for aria-labels. One label was missing, on the rsvp-form-button on the rsvp-page.
 
 
 - The website was viewed on a variety of devices such as Laptop and iPhone 10.

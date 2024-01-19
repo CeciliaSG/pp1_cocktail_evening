@@ -59,24 +59,24 @@
             <h2 class="hidden-heading">This heading will be hidden</h2>
             
             <div id="rsvp-section">
-            <form id="rsvp-form" method="post" action="https://formdump.codeinstitute.net">
+            <form id="rsvp-form" method="post" action="https://formdump.codeinstitute.net" aria-label="RSVP form">
                 <label for="first_name">First name</label>
-                <input type="text" name="first_name" id="first_name" class="text-input" required>
+                <input type="text" name="first_name" id="first_name" class="text-input" aria-label="First name" required>
                 <br>
                 <label for="last_name">Last name</label>
-                <input type="text" name="last_name" id="last_name" class="text-input" required>
+                <input type="text" name="last_name" id="last_name" class="text-input" aria-label="Last name" required>
                 <br>
                 <label for="email_address">Email</label>
-                <input type="email" name="email_address" id="email_address" class="text-input" required>
+                <input type="email" name="email_address" id="email_address" class="text-input" aria-label="Email adress" required>
                 <br>
                 <div class="radio-buttons">
                     <div>
                         <label for="alone">It's just me</label>
-                        <input type="radio" name="number_of_people_attending" id="alone" value="alone" required>
+                        <input type="radio" name="number_of_people_attending" id="alone" value="alone" aria-label="I'm attending on my own" required>
                     </div>
                     <div>
                         <label for="two">I'm bringing a friend</label>
-                        <input type="radio" name="number_of_people_attending" id="two" value="two" required>
+                        <input type="radio" name="number_of_people_attending" id="two" value="two" aria-label="I'm bringing a friend" required>
                     </div>
                 </div>
                 <button type="submit" class="button hover-button" id="button-rsvp-form" aria-label="Button for rsvp-form">Let's Party</button>
