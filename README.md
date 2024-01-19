@@ -42,19 +42,15 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
   - Home Page Wireframe
 
-  
   <img src="documentation/Screenshot_homepage.png">
-
+  
   
   - Mobile Wireframe
-
   
   <img src="documentation/Screenshot_mobile.png">
 
-
   - RSVP Page Wireframe  
 
-  
   <img src="documentation/Screenshot_RSVP-page-sketch.png">
 
 ## Features
@@ -160,6 +156,20 @@ The font-color was changed black, and below are the new test results.
 - Makes it easy for usersto visit the comapnies Instagram page and send an email to to company.
 
 <img src="documentation/Screenshot_footer.png">
+
+### Pages
+
+- The Home-page lets the user know why they are there and what the site is about, and what is required of them.
+
+<img src="documentation/Screenshot_home-page.png">
+
+- The RSVP-page lets the user know what to do if they wantto attend the event
+
+<img src="documentation/Screenshot_RSVP-page.png">
+  
+- The Where-page lets the user know where the venue is located and they can also view it on Google maps.
+  
+  <img src="documentation/Sceenshot_where-page.png">
   
 ### Further Testing
 
