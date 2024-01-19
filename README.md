@@ -192,7 +192,7 @@ The font-color was changed black, and below are the new test results.
 
 - Color contrast testing
   The site was checkedfor colour contrast with [Coolors.co](https://coolors.co/). No issues were found.
-- The site was manually checked for aria-labels. One label was missing, on the rsvp-form-button on the rsvp-page.
+- The site was manually checked for aria-labels. The RSVP-form was missing labels for the fields and the button, so these were added.
 
 
 - The website was viewed on a variety of devices such as Laptop and iPhone 10.
