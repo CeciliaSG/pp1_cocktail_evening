@@ -59,8 +59,6 @@ This is an invitation website for XOXO Pulishings Cocktail Event Launch Party. G
 
 - Interactive elements: button, links, rsvp-form, radio-buttons, drop-down menu, Google map.
 
-## Technologies Used
-
 ### Languages Used
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -89,8 +87,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 [Results RSVP-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Frsvp.html)- [Results Where-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Fwhere.html)- [Results Home-page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fceciliasg.github.io%2Fpp1_cocktail_evening%2Findex.html)
 - No errors were found when passing through the official W3C CSS Validator (https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](http://jigsaw.w3.org/css-validator/validator$link)
 - Lighthouse testing:
-- Results desktop:<img src=".theia/documentation/Screenshot_lighthouse_mobile.png">
-- Results mobile:<img src=".theia/documentation/Screenshot_lighthouse_mobile.png">
+On the first runthrogh the testing indicated a issue with the colours of the RSVP-button.
+
+<img src="documentation/Screenshot_issue_RSVP_button.png">
+
+The font-color was changed black, and below are the new test results.
+
+- Results desktop:<img src="documentation/Screenshot_lighthouse_mobile.png">
+- Results mobile:<img src="documentation/Screenshot_lighthouse_mobile.png">
 
 ### Feature Testing
 
